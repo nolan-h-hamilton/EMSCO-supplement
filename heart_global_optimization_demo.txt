@@ -1,0 +1,1731 @@
+optimization behaviour with k=4 (maximum number of stages)
+
+generation 0, experiment: 0, time_elapsed (minutes): 0.026
+elite size (`M`, `elite_size`): 40
+number of uniqe, non-dominated solutions (`|E*_0|`): 12
+unique, known globally optimal solutions in non-dominated front (`X_0`): 0
+top ten ranked solutions in population
+(acc (g2): 0.875, coverage (g1): 0.747, cost (g3*):471.20), [Q]: [0, 1, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0]
+(acc (g2): 0.852, coverage (g1): 0.813, cost (g3*):514.93), [Q]: [0, 1, 0, 1, 0, 0, 1, 0, 1, 0, 0, 1]
+(acc (g2): 0.785, coverage (g1): 0.867, cost (g3*):509.20), [Q]: [0, 1, 0, 1, 1, 0, 1, 0, 0, 1, 0, 1]
+(acc (g2): 0.902, coverage (g1): 0.680, cost (g3*):493.07), [Q]: [0, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0]
+(acc (g2): 0.879, coverage (g1): 0.773, cost (g3*):530.00), [Q]: [0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 0]
+(acc (g2): 0.879, coverage (g1): 0.773, cost (g3*):530.00), [Q]: [0, 1, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0]
+(acc (g2): 0.898, coverage (g1): 0.653, cost (g3*):492.40), [Q]: [0, 0, 1, 0, 0, 0, 1, 1, 1, 1, 1, 0]
+(acc (g2): 0.887, coverage (g1): 0.827, cost (g3*):587.87), [Q]: [1, 0, 1, 0, 0, 0, 1, 0, 0, 1, 0, 1]
+(acc (g2): 0.800, coverage (g1): 0.867, cost (g3*):555.73), [Q]: [0, 0, 0, 0, 0, 1, 1, 0, 1, 0, 0, 1]
+(acc (g2): 0.839, coverage (g1): 0.827, cost (g3*):576.40), [Q]: [0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 1]
+260 chromosomes must be generated for the next population
+
+generation 1, experiment: 0, time_elapsed (minutes): 0.056
+elite size (`M`, `elite_size`): 51
+number of uniqe, non-dominated solutions (`|E*_0|`): 18
+unique, known globally optimal solutions in non-dominated front (`X_1`): 0
+top ten ranked solutions in population
+(acc (g2): 0.847, coverage (g1): 0.787, cost (g3*):368.93), [Q]: [1, 1, 1, 0, 0, 1, 1, 0, 0, 2, 1, 0]
+(acc (g2): 0.875, coverage (g1): 0.747, cost (g3*):380.40), [Q]: [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 1, 0]
+(acc (g2): 0.831, coverage (g1): 0.867, cost (g3*):407.73), [Q]: [0, 2, 2, 0, 0, 0, 1, 0, 1, 1, 3, 1]
+(acc (g2): 0.891, coverage (g1): 0.733, cost (g3*):410.00), [Q]: [0, 1, 0, 1, 0, 1, 1, 1, 1, 0, 0, 0]
+(acc (g2): 0.862, coverage (g1): 0.773, cost (g3*):427.07), [Q]: [1, 1, 2, 0, 0, 1, 1, 1, 1, 0, 0, 0]
+(acc (g2): 0.864, coverage (g1): 0.787, cost (g3*):450.13), [Q]: [0, 2, 0, 1, 1, 0, 2, 0, 0, 3, 0, 0]
+(acc (g2): 0.850, coverage (g1): 0.800, cost (g3*):454.80), [Q]: [1, 1, 0, 0, 0, 1, 1, 0, 1, 0, 0, 0]
+(acc (g2): 0.857, coverage (g1): 0.840, cost (g3*):486.27), [Q]: [0, 1, 2, 0, 0, 0, 1, 1, 1, 1, 0, 1]
+(acc (g2): 0.900, coverage (g1): 0.667, cost (g3*):430.00), [Q]: [0, 1, 0, 1, 0, 1, 0, 0, 1, 1, 0, 0]
+(acc (g2): 0.765, coverage (g1): 0.907, cost (g3*):484.67), [Q]: [0, 1, 0, 1, 2, 0, 1, 0, 1, 0, 0, 1]
+249 chromosomes must be generated for the next population
+
+generation 2, experiment: 0, time_elapsed (minutes): 0.085
+elite size (`M`, `elite_size`): 55
+number of uniqe, non-dominated solutions (`|E*_0|`): 19
+unique, known globally optimal solutions in non-dominated front (`X_2`): 0
+top ten ranked solutions in population
+(acc (g2): 0.857, coverage (g1): 0.840, cost (g3*):257.20), [Q]: [1, 1, 2, 1, 0, 1, 2, 1, 1, 1, 0, 0]
+(acc (g2): 0.883, coverage (g1): 0.800, cost (g3*):363.60), [Q]: [0, 0, 1, 1, 0, 2, 2, 0, 0, 2, 2, 0]
+(acc (g2): 0.862, coverage (g1): 0.773, cost (g3*):341.73), [Q]: [2, 2, 2, 2, 2, 2, 2, 1, 2, 0, 2, 0]
+(acc (g2): 0.821, coverage (g1): 0.893, cost (g3*):416.93), [Q]: [0, 0, 0, 0, 0, 3, 2, 0, 1, 2, 1, 1]
+(acc (g2): 0.831, coverage (g1): 0.867, cost (g3*):407.73), [Q]: [0, 2, 2, 0, 0, 0, 1, 0, 1, 1, 3, 1]
+(acc (g2): 0.833, coverage (g1): 0.880, cost (g3*):432.40), [Q]: [0, 0, 0, 2, 0, 0, 2, 0, 1, 2, 0, 1]
+(acc (g2): 0.773, coverage (g1): 0.880, cost (g3*):394.80), [Q]: [0, 0, 0, 1, 1, 2, 1, 0, 1, 3, 0, 1]
+(acc (g2): 0.869, coverage (g1): 0.813, cost (g3*):446.00), [Q]: [0, 1, 0, 1, 0, 0, 3, 0, 0, 2, 0, 0]
+(acc (g2): 0.891, coverage (g1): 0.733, cost (g3*):410.00), [Q]: [0, 1, 0, 1, 0, 1, 1, 1, 1, 0, 0, 0]
+(acc (g2): 0.829, coverage (g1): 0.933, cost (g3*):634.93), [Q]: [2, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]
+245 chromosomes must be generated for the next population
+
+generation 3, experiment: 0, time_elapsed (minutes): 0.116
+elite size (`M`, `elite_size`): 56
+number of uniqe, non-dominated solutions (`|E*_0|`): 23
+unique, known globally optimal solutions in non-dominated front (`X_3`): 0
+top ten ranked solutions in population
+(acc (g2): 0.857, coverage (g1): 0.840, cost (g3*):257.20), [Q]: [1, 1, 2, 1, 0, 1, 2, 1, 1, 1, 0, 0]
+(acc (g2): 0.877, coverage (g1): 0.760, cost (g3*):248.67), [Q]: [0, 1, 2, 1, 0, 2, 2, 0, 2, 2, 0, 0]
+(acc (g2): 0.862, coverage (g1): 0.867, cost (g3*):272.00), [Q]: [1, 2, 1, 2, 0, 0, 2, 0, 2, 3, 1, 1]
+(acc (g2): 0.879, coverage (g1): 0.773, cost (g3*):305.33), [Q]: [0, 1, 1, 0, 0, 2, 2, 0, 2, 2, 2, 0]
+(acc (g2): 0.779, coverage (g1): 0.907, cost (g3*):325.47), [Q]: [0, 0, 3, 2, 1, 2, 2, 0, 2, 3, 0, 2]
+(acc (g2): 0.851, coverage (g1): 0.893, cost (g3*):399.60), [Q]: [0, 0, 2, 0, 0, 2, 3, 0, 0, 2, 3, 1]
+(acc (g2): 0.883, coverage (g1): 0.800, cost (g3*):363.60), [Q]: [0, 0, 1, 1, 0, 2, 2, 0, 0, 2, 2, 0]
+(acc (g2): 0.826, coverage (g1): 0.920, cost (g3*):474.13), [Q]: [0, 0, 2, 2, 1, 0, 2, 0, 0, 0, 3, 1]
+(acc (g2): 0.824, coverage (g1): 0.907, cost (g3*):453.33), [Q]: [0, 0, 3, 1, 0, 0, 2, 0, 0, 1, 0, 1]
+(acc (g2): 0.873, coverage (g1): 0.840, cost (g3*):472.67), [Q]: [1, 1, 0, 0, 0, 1, 1, 0, 1, 1, 0, 1]
+244 chromosomes must be generated for the next population
+
+generation 4, experiment: 0, time_elapsed (minutes): 0.149
+elite size (`M`, `elite_size`): 57
+number of uniqe, non-dominated solutions (`|E*_0|`): 20
+unique, known globally optimal solutions in non-dominated front (`X_4`): 0
+top ten ranked solutions in population
+(acc (g2): 0.859, coverage (g1): 0.947, cost (g3*):269.87), [Q]: [2, 3, 0, 1, 0, 3, 3, 0, 1, 2, 0, 1]
+(acc (g2): 0.850, coverage (g1): 0.800, cost (g3*):241.20), [Q]: [2, 1, 2, 1, 0, 2, 2, 1, 3, 1, 2, 0]
+(acc (g2): 0.857, coverage (g1): 0.840, cost (g3*):257.20), [Q]: [1, 1, 2, 1, 0, 1, 2, 1, 1, 1, 0, 0]
+(acc (g2): 0.862, coverage (g1): 0.773, cost (g3*):247.73), [Q]: [2, 2, 2, 2, 2, 2, 2, 1, 3, 2, 2, 0]
+(acc (g2): 0.877, coverage (g1): 0.760, cost (g3*):248.67), [Q]: [0, 1, 2, 1, 0, 2, 2, 0, 2, 2, 0, 0]
+(acc (g2): 0.862, coverage (g1): 0.867, cost (g3*):272.00), [Q]: [1, 2, 1, 2, 0, 0, 2, 0, 2, 3, 1, 1]
+(acc (g2): 0.869, coverage (g1): 0.813, cost (g3*):263.73), [Q]: [2, 1, 1, 3, 2, 2, 3, 1, 3, 2, 0, 0]
+(acc (g2): 0.864, coverage (g1): 0.880, cost (g3*):313.20), [Q]: [0, 3, 2, 0, 0, 3, 3, 0, 0, 2, 3, 1]
+(acc (g2): 0.873, coverage (g1): 0.840, cost (g3*):319.33), [Q]: [0, 1, 2, 1, 0, 0, 3, 1, 2, 2, 3, 1]
+(acc (g2): 0.879, coverage (g1): 0.773, cost (g3*):305.33), [Q]: [0, 1, 1, 0, 0, 2, 2, 0, 2, 2, 2, 0]
+243 chromosomes must be generated for the next population
+
+generation 5, experiment: 0, time_elapsed (minutes): 0.182
+elite size (`M`, `elite_size`): 57
+number of uniqe, non-dominated solutions (`|E*_0|`): 17
+unique, known globally optimal solutions in non-dominated front (`X_5`): 0
+top ten ranked solutions in population
+(acc (g2): 0.862, coverage (g1): 0.867, cost (g3*):196.13), [Q]: [2, 3, 1, 2, 0, 2, 3, 1, 3, 2, 0, 0]
+(acc (g2): 0.862, coverage (g1): 0.773, cost (g3*):208.53), [Q]: [0, 2, 2, 2, 1, 3, 2, 0, 2, 3, 2, 0]
+(acc (g2): 0.833, coverage (g1): 0.880, cost (g3*):232.40), [Q]: [0, 2, 1, 1, 0, 2, 2, 0, 1, 1, 1, 1]
+(acc (g2): 0.859, coverage (g1): 0.947, cost (g3*):269.87), [Q]: [2, 3, 0, 1, 0, 3, 3, 0, 1, 2, 0, 1]
+(acc (g2): 0.806, coverage (g1): 0.893, cost (g3*):235.60), [Q]: [0, 2, 2, 2, 1, 2, 2, 0, 1, 3, 2, 2]
+(acc (g2): 0.879, coverage (g1): 0.773, cost (g3*):223.87), [Q]: [0, 1, 1, 1, 0, 2, 2, 0, 2, 2, 2, 0]
+(acc (g2): 0.912, coverage (g1): 0.760, cost (g3*):232.40), [Q]: [0, 2, 2, 1, 0, 2, 2, 1, 3, 2, 2, 0]
+(acc (g2): 0.870, coverage (g1): 0.920, cost (g3*):318.93), [Q]: [2, 1, 2, 1, 0, 0, 2, 0, 1, 3, 0, 1]
+(acc (g2): 0.869, coverage (g1): 0.813, cost (g3*):263.73), [Q]: [2, 1, 1, 3, 2, 2, 3, 1, 3, 2, 0, 0]
+(acc (g2): 0.864, coverage (g1): 0.880, cost (g3*):313.20), [Q]: [0, 3, 2, 0, 0, 3, 3, 0, 0, 2, 3, 1]
+243 chromosomes must be generated for the next population
+
+generation 6, experiment: 0, time_elapsed (minutes): 0.216
+elite size (`M`, `elite_size`): 59
+number of uniqe, non-dominated solutions (`|E*_0|`): 20
+unique, known globally optimal solutions in non-dominated front (`X_6`): 0
+top ten ranked solutions in population
+(acc (g2): 0.836, coverage (g1): 0.893, cost (g3*):173.60), [Q]: [0, 1, 1, 3, 0, 2, 2, 0, 2, 3, 3, 1]
+(acc (g2): 0.859, coverage (g1): 0.853, cost (g3*):181.47), [Q]: [1, 2, 1, 2, 0, 2, 3, 0, 1, 3, 1, 0]
+(acc (g2): 0.862, coverage (g1): 0.867, cost (g3*):196.13), [Q]: [2, 3, 1, 2, 0, 2, 3, 1, 3, 2, 0, 0]
+(acc (g2): 0.809, coverage (g1): 0.907, cost (g3*):198.13), [Q]: [0, 2, 3, 2, 1, 2, 3, 0, 3, 3, 0, 2]
+(acc (g2): 0.859, coverage (g1): 0.947, cost (g3*):269.87), [Q]: [2, 3, 0, 1, 0, 3, 3, 0, 1, 2, 0, 1]
+(acc (g2): 0.862, coverage (g1): 0.773, cost (g3*):208.53), [Q]: [0, 2, 2, 2, 1, 3, 2, 0, 2, 3, 2, 0]
+(acc (g2): 0.883, coverage (g1): 0.800, cost (g3*):223.60), [Q]: [0, 2, 2, 1, 0, 2, 3, 1, 3, 2, 0, 0]
+(acc (g2): 0.879, coverage (g1): 0.773, cost (g3*):221.07), [Q]: [0, 2, 1, 1, 0, 1, 2, 0, 1, 2, 2, 0]
+(acc (g2): 0.848, coverage (g1): 0.880, cost (g3*):250.53), [Q]: [0, 3, 2, 1, 0, 3, 2, 0, 0, 3, 0, 1]
+(acc (g2): 0.912, coverage (g1): 0.760, cost (g3*):232.40), [Q]: [0, 2, 2, 1, 0, 2, 2, 1, 3, 2, 2, 0]
+241 chromosomes must be generated for the next population
+
+generation 7, experiment: 0, time_elapsed (minutes): 0.249
+elite size (`M`, `elite_size`): 58
+number of uniqe, non-dominated solutions (`|E*_0|`): 18
+unique, known globally optimal solutions in non-dominated front (`X_7`): 0
+top ten ranked solutions in population
+(acc (g2): 0.836, coverage (g1): 0.893, cost (g3*):114.93), [Q]: [0, 3, 2, 2, 0, 3, 2, 0, 3, 2, 3, 1]
+(acc (g2): 0.841, coverage (g1): 0.920, cost (g3*):175.07), [Q]: [0, 3, 3, 1, 0, 3, 3, 0, 1, 2, 3, 1]
+(acc (g2): 0.809, coverage (g1): 0.907, cost (g3*):171.87), [Q]: [0, 1, 2, 1, 1, 2, 2, 0, 2, 2, 3, 1]
+(acc (g2): 0.859, coverage (g1): 0.853, cost (g3*):181.47), [Q]: [1, 2, 1, 2, 0, 2, 3, 0, 1, 3, 1, 0]
+(acc (g2): 0.862, coverage (g1): 0.867, cost (g3*):196.13), [Q]: [2, 3, 1, 2, 0, 2, 3, 1, 3, 2, 0, 0]
+(acc (g2): 0.873, coverage (g1): 0.840, cost (g3*):194.40), [Q]: [1, 2, 2, 2, 0, 1, 2, 1, 1, 2, 2, 0]
+(acc (g2): 0.859, coverage (g1): 0.947, cost (g3*):269.87), [Q]: [2, 3, 0, 1, 0, 3, 3, 0, 1, 2, 0, 1]
+(acc (g2): 0.851, coverage (g1): 0.893, cost (g3*):216.53), [Q]: [2, 1, 2, 1, 0, 3, 2, 0, 3, 2, 1, 1]
+(acc (g2): 0.892, coverage (g1): 0.867, cost (g3*):266.27), [Q]: [1, 2, 2, 2, 0, 1, 3, 1, 0, 2, 3, 0]
+(acc (g2): 0.870, coverage (g1): 0.920, cost (g3*):318.93), [Q]: [2, 1, 2, 1, 0, 0, 2, 0, 1, 3, 0, 1]
+242 chromosomes must be generated for the next population
+
+generation 8, experiment: 0, time_elapsed (minutes): 0.281
+elite size (`M`, `elite_size`): 57
+number of uniqe, non-dominated solutions (`|E*_0|`): 18
+unique, known globally optimal solutions in non-dominated front (`X_8`): 0
+top ten ranked solutions in population
+(acc (g2): 0.836, coverage (g1): 0.893, cost (g3*):114.93), [Q]: [0, 3, 2, 2, 0, 3, 2, 0, 3, 2, 3, 1]
+(acc (g2): 0.841, coverage (g1): 0.920, cost (g3*):142.93), [Q]: [0, 3, 3, 1, 0, 3, 3, 0, 2, 2, 3, 1]
+(acc (g2): 0.855, coverage (g1): 0.920, cost (g3*):177.87), [Q]: [2, 2, 3, 3, 0, 1, 3, 0, 2, 2, 1, 1]
+(acc (g2): 0.857, coverage (g1): 0.840, cost (g3*):158.80), [Q]: [1, 2, 2, 2, 0, 3, 2, 0, 3, 3, 1, 0]
+(acc (g2): 0.857, coverage (g1): 0.933, cost (g3*):207.47), [Q]: [2, 3, 2, 2, 0, 2, 3, 0, 0, 2, 3, 1]
+(acc (g2): 0.859, coverage (g1): 0.853, cost (g3*):181.47), [Q]: [1, 2, 1, 2, 0, 2, 3, 0, 1, 3, 1, 0]
+(acc (g2): 0.871, coverage (g1): 0.933, cost (g3*):240.27), [Q]: [2, 3, 2, 1, 0, 0, 3, 0, 3, 2, 0, 1]
+(acc (g2): 0.862, coverage (g1): 0.867, cost (g3*):196.13), [Q]: [2, 3, 1, 2, 0, 2, 3, 1, 3, 2, 0, 0]
+(acc (g2): 0.873, coverage (g1): 0.840, cost (g3*):194.40), [Q]: [1, 2, 2, 2, 0, 1, 2, 1, 1, 2, 2, 0]
+(acc (g2): 0.859, coverage (g1): 0.947, cost (g3*):269.87), [Q]: [2, 3, 0, 1, 0, 3, 3, 0, 1, 2, 0, 1]
+243 chromosomes must be generated for the next population
+
+generation 9, experiment: 0, time_elapsed (minutes): 0.316
+elite size (`M`, `elite_size`): 56
+number of uniqe, non-dominated solutions (`|E*_0|`): 20
+unique, known globally optimal solutions in non-dominated front (`X_9`): 0
+top ten ranked solutions in population
+(acc (g2): 0.857, coverage (g1): 0.933, cost (g3*):121.20), [Q]: [2, 3, 2, 2, 0, 3, 3, 0, 2, 2, 3, 1]
+(acc (g2): 0.836, coverage (g1): 0.893, cost (g3*):114.93), [Q]: [0, 3, 2, 2, 0, 3, 2, 0, 3, 2, 3, 1]
+(acc (g2): 0.862, coverage (g1): 0.867, cost (g3*):178.80), [Q]: [1, 3, 1, 2, 0, 2, 3, 0, 1, 2, 1, 0]
+(acc (g2): 0.871, coverage (g1): 0.827, cost (g3*):174.53), [Q]: [1, 3, 1, 2, 0, 3, 2, 1, 3, 3, 2, 0]
+(acc (g2): 0.871, coverage (g1): 0.933, cost (g3*):240.27), [Q]: [2, 3, 2, 1, 0, 0, 3, 0, 3, 2, 0, 1]
+(acc (g2): 0.873, coverage (g1): 0.840, cost (g3*):188.80), [Q]: [1, 2, 2, 1, 0, 3, 2, 1, 1, 3, 3, 0]
+(acc (g2): 0.864, coverage (g1): 0.880, cost (g3*):205.47), [Q]: [1, 3, 1, 1, 0, 2, 3, 1, 1, 2, 1, 0]
+(acc (g2): 0.859, coverage (g1): 0.947, cost (g3*):269.87), [Q]: [2, 3, 0, 1, 0, 3, 3, 0, 1, 2, 0, 1]
+(acc (g2): 0.892, coverage (g1): 0.867, cost (g3*):250.27), [Q]: [1, 2, 2, 2, 0, 2, 3, 1, 0, 2, 3, 0]
+(acc (g2): 0.861, coverage (g1): 0.960, cost (g3*):386.67), [Q]: [2, 1, 0, 0, 0, 3, 3, 0, 1, 1, 0, 1]
+244 chromosomes must be generated for the next population
+
+generation 10, experiment: 0, time_elapsed (minutes): 0.35
+elite size (`M`, `elite_size`): 56
+number of uniqe, non-dominated solutions (`|E*_0|`): 22
+unique, known globally optimal solutions in non-dominated front (`X_10`): 0
+top ten ranked solutions in population
+(acc (g2): 0.857, coverage (g1): 0.933, cost (g3*):121.20), [Q]: [2, 3, 2, 2, 0, 3, 3, 0, 2, 2, 3, 1]
+(acc (g2): 0.836, coverage (g1): 0.893, cost (g3*):114.93), [Q]: [0, 3, 2, 2, 0, 3, 2, 0, 3, 2, 3, 1]
+(acc (g2): 0.864, coverage (g1): 0.880, cost (g3*):169.33), [Q]: [1, 3, 3, 2, 0, 2, 3, 0, 2, 2, 1, 1]
+(acc (g2): 0.877, coverage (g1): 0.867, cost (g3*):174.93), [Q]: [2, 3, 2, 2, 1, 3, 2, 1, 3, 2, 3, 0]
+(acc (g2): 0.871, coverage (g1): 0.827, cost (g3*):174.53), [Q]: [1, 3, 1, 2, 0, 3, 2, 1, 3, 3, 2, 0]
+(acc (g2): 0.871, coverage (g1): 0.933, cost (g3*):240.27), [Q]: [2, 3, 2, 1, 0, 0, 3, 0, 3, 2, 0, 1]
+(acc (g2): 0.859, coverage (g1): 0.947, cost (g3*):269.87), [Q]: [2, 3, 0, 1, 0, 3, 3, 0, 1, 2, 0, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):224.80), [Q]: [1, 3, 2, 3, 0, 3, 3, 0, 0, 2, 3, 1]
+(acc (g2): 0.892, coverage (g1): 0.867, cost (g3*):250.27), [Q]: [1, 2, 2, 2, 0, 2, 3, 1, 0, 2, 3, 0]
+(acc (g2): 0.861, coverage (g1): 0.960, cost (g3*):386.67), [Q]: [2, 1, 0, 0, 0, 3, 3, 0, 1, 1, 0, 1]
+244 chromosomes must be generated for the next population
+
+generation 11, experiment: 0, time_elapsed (minutes): 0.384
+elite size (`M`, `elite_size`): 57
+number of uniqe, non-dominated solutions (`|E*_0|`): 17
+unique, known globally optimal solutions in non-dominated front (`X_11`): 0
+top ten ranked solutions in population
+(acc (g2): 0.857, coverage (g1): 0.933, cost (g3*):121.20), [Q]: [2, 3, 2, 2, 0, 3, 3, 0, 2, 2, 3, 1]
+(acc (g2): 0.836, coverage (g1): 0.893, cost (g3*):114.93), [Q]: [0, 3, 2, 2, 0, 3, 2, 0, 3, 2, 3, 1]
+(acc (g2): 0.836, coverage (g1): 0.893, cost (g3*):114.93), [Q]: [0, 2, 2, 3, 0, 2, 3, 0, 2, 3, 3, 1]
+(acc (g2): 0.853, coverage (g1): 0.907, cost (g3*):120.40), [Q]: [2, 3, 3, 3, 0, 3, 3, 0, 3, 3, 0, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.53), [Q]: [1, 3, 3, 3, 0, 3, 3, 0, 2, 2, 2, 1]
+(acc (g2): 0.877, coverage (g1): 0.867, cost (g3*):174.93), [Q]: [2, 3, 2, 2, 1, 3, 2, 1, 3, 2, 3, 0]
+(acc (g2): 0.859, coverage (g1): 0.947, cost (g3*):213.47), [Q]: [2, 2, 2, 2, 0, 3, 3, 0, 0, 2, 0, 1]
+(acc (g2): 0.871, coverage (g1): 0.827, cost (g3*):173.33), [Q]: [1, 3, 2, 3, 0, 3, 2, 0, 2, 2, 1, 1]
+(acc (g2): 0.871, coverage (g1): 0.933, cost (g3*):240.27), [Q]: [2, 3, 2, 1, 0, 0, 3, 0, 3, 2, 0, 1]
+(acc (g2): 0.919, coverage (g1): 0.827, cost (g3*):206.27), [Q]: [0, 2, 2, 2, 0, 3, 3, 1, 1, 2, 3, 0]
+243 chromosomes must be generated for the next population
+
+generation 12, experiment: 0, time_elapsed (minutes): 0.417
+elite size (`M`, `elite_size`): 57
+number of uniqe, non-dominated solutions (`|E*_0|`): 19
+unique, known globally optimal solutions in non-dominated front (`X_12`): 0
+top ten ranked solutions in population
+(acc (g2): 0.857, coverage (g1): 0.933, cost (g3*):121.20), [Q]: [2, 3, 2, 2, 0, 3, 3, 0, 2, 2, 3, 1]
+(acc (g2): 0.836, coverage (g1): 0.893, cost (g3*):114.93), [Q]: [0, 3, 2, 2, 0, 3, 2, 0, 3, 2, 3, 1]
+(acc (g2): 0.836, coverage (g1): 0.893, cost (g3*):114.93), [Q]: [0, 2, 2, 3, 0, 2, 3, 0, 2, 3, 3, 1]
+(acc (g2): 0.853, coverage (g1): 0.907, cost (g3*):120.40), [Q]: [2, 3, 3, 3, 0, 3, 3, 0, 3, 3, 0, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 2, 3, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.803, coverage (g1): 0.947, cost (g3*):139.87), [Q]: [0, 2, 3, 1, 2, 2, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.879, coverage (g1): 0.880, cost (g3*):165.87), [Q]: [1, 3, 2, 2, 0, 2, 3, 1, 1, 2, 3, 0]
+(acc (g2): 0.859, coverage (g1): 0.947, cost (g3*):186.00), [Q]: [2, 3, 0, 2, 0, 3, 3, 0, 3, 2, 2, 1]
+(acc (g2): 0.871, coverage (g1): 0.827, cost (g3*):156.67), [Q]: [1, 3, 2, 3, 1, 3, 3, 1, 3, 2, 2, 0]
+(acc (g2): 0.871, coverage (g1): 0.933, cost (g3*):240.27), [Q]: [2, 3, 2, 1, 0, 0, 3, 0, 3, 2, 0, 1]
+243 chromosomes must be generated for the next population
+
+generation 13, experiment: 0, time_elapsed (minutes): 0.453
+elite size (`M`, `elite_size`): 55
+number of uniqe, non-dominated solutions (`|E*_0|`): 19
+unique, known globally optimal solutions in non-dominated front (`X_13`): 0
+top ten ranked solutions in population
+(acc (g2): 0.826, coverage (g1): 0.920, cost (g3*):102.67), [Q]: [0, 3, 2, 3, 0, 3, 3, 0, 2, 2, 3, 1]
+(acc (g2): 0.809, coverage (g1): 0.907, cost (g3*):102.53), [Q]: [0, 2, 2, 3, 1, 2, 2, 0, 2, 2, 3, 1]
+(acc (g2): 0.857, coverage (g1): 0.933, cost (g3*):110.13), [Q]: [2, 3, 3, 3, 0, 3, 3, 0, 3, 2, 2, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 2, 3, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.803, coverage (g1): 0.947, cost (g3*):139.87), [Q]: [0, 2, 3, 1, 2, 2, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.877, coverage (g1): 0.867, cost (g3*):139.33), [Q]: [1, 3, 3, 2, 0, 3, 3, 1, 3, 2, 3, 0]
+(acc (g2): 0.859, coverage (g1): 0.947, cost (g3*):186.00), [Q]: [2, 3, 0, 2, 0, 3, 3, 0, 3, 2, 2, 1]
+(acc (g2): 0.879, coverage (g1): 0.880, cost (g3*):165.87), [Q]: [1, 3, 2, 2, 0, 2, 3, 1, 1, 2, 3, 0]
+(acc (g2): 0.792, coverage (g1): 0.960, cost (g3*):168.53), [Q]: [0, 3, 0, 2, 1, 2, 3, 0, 2, 2, 1, 1]
+(acc (g2): 0.870, coverage (g1): 0.920, cost (g3*):208.27), [Q]: [2, 3, 2, 2, 0, 0, 3, 0, 2, 3, 0, 1]
+245 chromosomes must be generated for the next population
+
+generation 14, experiment: 0, time_elapsed (minutes): 0.483
+elite size (`M`, `elite_size`): 57
+number of uniqe, non-dominated solutions (`|E*_0|`): 22
+unique, known globally optimal solutions in non-dominated front (`X_14`): 0
+top ten ranked solutions in population
+(acc (g2): 0.826, coverage (g1): 0.920, cost (g3*):102.67), [Q]: [0, 3, 2, 3, 0, 3, 3, 0, 2, 2, 3, 1]
+(acc (g2): 0.809, coverage (g1): 0.907, cost (g3*):102.53), [Q]: [0, 2, 2, 3, 1, 2, 2, 0, 2, 2, 3, 1]
+(acc (g2): 0.857, coverage (g1): 0.933, cost (g3*):110.13), [Q]: [2, 3, 3, 3, 0, 3, 3, 0, 3, 2, 2, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 2, 3, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.803, coverage (g1): 0.947, cost (g3*):139.87), [Q]: [0, 2, 3, 1, 2, 2, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.877, coverage (g1): 0.867, cost (g3*):139.33), [Q]: [1, 3, 3, 2, 0, 3, 3, 1, 3, 2, 3, 0]
+(acc (g2): 0.859, coverage (g1): 0.947, cost (g3*):186.00), [Q]: [2, 3, 0, 2, 0, 3, 3, 0, 3, 2, 2, 1]
+(acc (g2): 0.879, coverage (g1): 0.880, cost (g3*):165.87), [Q]: [1, 3, 2, 2, 0, 2, 3, 1, 1, 2, 3, 0]
+(acc (g2): 0.792, coverage (g1): 0.960, cost (g3*):168.53), [Q]: [0, 3, 0, 2, 1, 2, 3, 0, 2, 2, 1, 1]
+(acc (g2): 0.870, coverage (g1): 0.920, cost (g3*):205.60), [Q]: [2, 3, 3, 3, 0, 0, 2, 0, 3, 2, 0, 1]
+243 chromosomes must be generated for the next population
+
+generation 15, experiment: 0, time_elapsed (minutes): 0.513
+elite size (`M`, `elite_size`): 55
+number of uniqe, non-dominated solutions (`|E*_0|`): 23
+unique, known globally optimal solutions in non-dominated front (`X_15`): 2
+top ten ranked solutions in population
+(acc (g2): 0.826, coverage (g1): 0.920, cost (g3*):98.67), [Q]: [0, 3, 2, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.857, coverage (g1): 0.933, cost (g3*):110.13), [Q]: [2, 3, 3, 3, 0, 3, 3, 0, 3, 2, 2, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 2, 3, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.803, coverage (g1): 0.947, cost (g3*):139.87), [Q]: [0, 2, 3, 1, 2, 2, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.877, coverage (g1): 0.867, cost (g3*):139.33), [Q]: [1, 3, 3, 2, 0, 3, 3, 1, 3, 2, 3, 0]
+(acc (g2): 0.859, coverage (g1): 0.947, cost (g3*):180.67), [Q]: [2, 3, 0, 3, 0, 3, 3, 0, 3, 2, 2, 1]
+(acc (g2): 0.879, coverage (g1): 0.880, cost (g3*):160.53), [Q]: [1, 3, 2, 2, 0, 3, 3, 1, 1, 2, 3, 0]
+(acc (g2): 0.792, coverage (g1): 0.960, cost (g3*):167.20), [Q]: [0, 3, 0, 2, 1, 2, 3, 0, 3, 2, 1, 1]
+(acc (g2): 0.889, coverage (g1): 0.840, cost (g3*):160.13), [Q]: [1, 3, 3, 3, 0, 3, 3, 2, 3, 2, 3, 0]
+(acc (g2): 0.870, coverage (g1): 0.920, cost (g3*):205.60), [Q]: [2, 3, 3, 3, 0, 0, 2, 0, 3, 2, 0, 1]
+245 chromosomes must be generated for the next population
+
+generation 16, experiment: 0, time_elapsed (minutes): 0.546
+elite size (`M`, `elite_size`): 56
+number of uniqe, non-dominated solutions (`|E*_0|`): 24
+unique, known globally optimal solutions in non-dominated front (`X_16`): 4
+top ten ranked solutions in population
+(acc (g2): 0.803, coverage (g1): 0.947, cost (g3*):98.53), [Q]: [0, 2, 3, 3, 2, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.826, coverage (g1): 0.920, cost (g3*):98.67), [Q]: [0, 3, 2, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.857, coverage (g1): 0.933, cost (g3*):110.13), [Q]: [2, 3, 3, 3, 0, 3, 3, 0, 3, 2, 2, 1]
+(acc (g2): 0.857, coverage (g1): 0.933, cost (g3*):110.13), [Q]: [2, 3, 2, 3, 0, 3, 3, 0, 3, 2, 2, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 2, 3, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 3, 3, 3, 0, 3, 3, 0, 2, 2, 3, 1]
+(acc (g2): 0.877, coverage (g1): 0.867, cost (g3*):135.33), [Q]: [1, 3, 3, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+(acc (g2): 0.859, coverage (g1): 0.947, cost (g3*):180.67), [Q]: [2, 3, 0, 3, 0, 3, 3, 0, 3, 2, 2, 1]
+(acc (g2): 0.819, coverage (g1): 0.960, cost (g3*):171.20), [Q]: [2, 3, 0, 3, 1, 3, 3, 0, 3, 2, 0, 1]
+(acc (g2): 0.879, coverage (g1): 0.880, cost (g3*):160.53), [Q]: [1, 3, 2, 2, 0, 3, 3, 1, 1, 2, 3, 0]
+244 chromosomes must be generated for the next population
+
+generation 17, experiment: 0, time_elapsed (minutes): 0.578
+elite size (`M`, `elite_size`): 56
+number of uniqe, non-dominated solutions (`|E*_0|`): 27
+unique, known globally optimal solutions in non-dominated front (`X_17`): 4
+top ten ranked solutions in population
+(acc (g2): 0.786, coverage (g1): 0.933, cost (g3*):90.40), [Q]: [0, 3, 3, 3, 1, 3, 2, 0, 3, 2, 3, 1]
+(acc (g2): 0.803, coverage (g1): 0.947, cost (g3*):98.53), [Q]: [0, 2, 3, 3, 2, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.826, coverage (g1): 0.920, cost (g3*):98.67), [Q]: [0, 3, 2, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.857, coverage (g1): 0.933, cost (g3*):110.13), [Q]: [2, 3, 3, 3, 0, 3, 3, 0, 3, 2, 2, 1]
+(acc (g2): 0.857, coverage (g1): 0.933, cost (g3*):110.13), [Q]: [2, 3, 2, 3, 0, 3, 3, 0, 3, 2, 2, 1]
+(acc (g2): 0.855, coverage (g1): 0.920, cost (g3*):109.47), [Q]: [2, 3, 3, 2, 0, 3, 3, 0, 3, 3, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 2, 3, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 3, 3, 3, 0, 3, 3, 0, 2, 2, 3, 1]
+(acc (g2): 0.877, coverage (g1): 0.867, cost (g3*):135.33), [Q]: [1, 3, 3, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+(acc (g2): 0.859, coverage (g1): 0.947, cost (g3*):180.67), [Q]: [2, 3, 0, 3, 0, 3, 3, 0, 3, 2, 2, 1]
+244 chromosomes must be generated for the next population
+
+generation 18, experiment: 0, time_elapsed (minutes): 0.611
+elite size (`M`, `elite_size`): 56
+number of uniqe, non-dominated solutions (`|E*_0|`): 27
+unique, known globally optimal solutions in non-dominated front (`X_18`): 5
+top ten ranked solutions in population
+(acc (g2): 0.786, coverage (g1): 0.933, cost (g3*):90.40), [Q]: [0, 3, 3, 3, 1, 3, 2, 0, 3, 2, 3, 1]
+(acc (g2): 0.812, coverage (g1): 0.920, cost (g3*):93.07), [Q]: [0, 3, 2, 2, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.803, coverage (g1): 0.947, cost (g3*):98.53), [Q]: [0, 2, 3, 3, 2, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.826, coverage (g1): 0.920, cost (g3*):98.67), [Q]: [0, 3, 2, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.841, coverage (g1): 0.920, cost (g3*):102.80), [Q]: [0, 3, 3, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.857, coverage (g1): 0.933, cost (g3*):109.33), [Q]: [2, 3, 2, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 2, 3, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 3, 3, 3, 0, 3, 3, 0, 2, 2, 3, 1]
+(acc (g2): 0.877, coverage (g1): 0.867, cost (g3*):135.33), [Q]: [1, 3, 3, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+(acc (g2): 0.861, coverage (g1): 0.960, cost (g3*):170.80), [Q]: [2, 3, 0, 2, 1, 3, 3, 0, 3, 2, 2, 1]
+244 chromosomes must be generated for the next population
+
+generation 19, experiment: 0, time_elapsed (minutes): 0.644
+elite size (`M`, `elite_size`): 55
+number of uniqe, non-dominated solutions (`|E*_0|`): 24
+unique, known globally optimal solutions in non-dominated front (`X_19`): 6
+top ten ranked solutions in population
+(acc (g2): 0.814, coverage (g1): 0.933, cost (g3*):90.67), [Q]: [0, 3, 3, 2, 1, 3, 3, 0, 3, 2, 2, 1]
+(acc (g2): 0.855, coverage (g1): 0.920, cost (g3*):93.33), [Q]: [2, 3, 3, 3, 0, 3, 3, 0, 3, 3, 3, 1]
+(acc (g2): 0.786, coverage (g1): 0.933, cost (g3*):90.40), [Q]: [0, 3, 3, 3, 1, 3, 2, 0, 3, 2, 3, 1]
+(acc (g2): 0.803, coverage (g1): 0.947, cost (g3*):98.53), [Q]: [0, 2, 3, 3, 2, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.857, coverage (g1): 0.933, cost (g3*):109.33), [Q]: [2, 3, 2, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 2, 3, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 3, 3, 3, 0, 3, 3, 0, 2, 2, 3, 1]
+(acc (g2): 0.877, coverage (g1): 0.867, cost (g3*):135.33), [Q]: [1, 3, 3, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+(acc (g2): 0.861, coverage (g1): 0.960, cost (g3*):170.80), [Q]: [2, 3, 0, 2, 1, 3, 3, 0, 3, 2, 2, 1]
+(acc (g2): 0.879, coverage (g1): 0.880, cost (g3*):160.53), [Q]: [1, 3, 2, 2, 0, 3, 3, 1, 1, 2, 3, 0]
+245 chromosomes must be generated for the next population
+
+generation 20, experiment: 0, time_elapsed (minutes): 0.671
+elite size (`M`, `elite_size`): 55
+number of uniqe, non-dominated solutions (`|E*_0|`): 22
+unique, known globally optimal solutions in non-dominated front (`X_20`): 7
+top ten ranked solutions in population
+(acc (g2): 0.800, coverage (g1): 0.933, cost (g3*):84.00), [Q]: [0, 3, 2, 3, 1, 3, 3, 0, 3, 2, 2, 1]
+(acc (g2): 0.814, coverage (g1): 0.933, cost (g3*):90.67), [Q]: [0, 3, 3, 2, 1, 3, 3, 0, 3, 2, 2, 1]
+(acc (g2): 0.855, coverage (g1): 0.920, cost (g3*):93.33), [Q]: [2, 3, 3, 3, 0, 3, 3, 0, 3, 3, 3, 1]
+(acc (g2): 0.803, coverage (g1): 0.947, cost (g3*):98.53), [Q]: [0, 2, 3, 3, 2, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.857, coverage (g1): 0.933, cost (g3*):109.33), [Q]: [2, 3, 2, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 2, 3, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 3, 3, 3, 0, 3, 3, 0, 2, 2, 3, 1]
+(acc (g2): 0.877, coverage (g1): 0.867, cost (g3*):135.33), [Q]: [1, 3, 3, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+(acc (g2): 0.861, coverage (g1): 0.960, cost (g3*):170.80), [Q]: [2, 3, 0, 2, 1, 3, 3, 0, 3, 2, 2, 1]
+(acc (g2): 0.879, coverage (g1): 0.880, cost (g3*):160.53), [Q]: [1, 3, 2, 2, 0, 3, 3, 1, 1, 2, 3, 0]
+245 chromosomes must be generated for the next population
+
+generation 21, experiment: 0, time_elapsed (minutes): 0.703
+elite size (`M`, `elite_size`): 54
+number of uniqe, non-dominated solutions (`|E*_0|`): 21
+unique, known globally optimal solutions in non-dominated front (`X_21`): 9
+top ten ranked solutions in population
+(acc (g2): 0.800, coverage (g1): 0.933, cost (g3*):84.00), [Q]: [0, 3, 2, 3, 1, 3, 3, 0, 3, 2, 2, 1]
+(acc (g2): 0.814, coverage (g1): 0.933, cost (g3*):88.00), [Q]: [0, 3, 3, 3, 1, 3, 3, 0, 3, 2, 2, 1]
+(acc (g2): 0.855, coverage (g1): 0.920, cost (g3*):93.33), [Q]: [2, 3, 3, 3, 0, 3, 3, 0, 3, 3, 3, 1]
+(acc (g2): 0.803, coverage (g1): 0.947, cost (g3*):98.53), [Q]: [0, 2, 3, 3, 2, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.857, coverage (g1): 0.933, cost (g3*):109.33), [Q]: [2, 3, 2, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.861, coverage (g1): 0.960, cost (g3*):162.00), [Q]: [2, 3, 0, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 2, 3, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 3, 3, 3, 0, 3, 3, 0, 2, 2, 3, 1]
+(acc (g2): 0.877, coverage (g1): 0.867, cost (g3*):135.33), [Q]: [1, 3, 3, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+(acc (g2): 0.879, coverage (g1): 0.880, cost (g3*):160.53), [Q]: [1, 3, 2, 2, 0, 3, 3, 1, 1, 2, 3, 0]
+246 chromosomes must be generated for the next population
+
+generation 22, experiment: 0, time_elapsed (minutes): 0.731
+elite size (`M`, `elite_size`): 53
+number of uniqe, non-dominated solutions (`|E*_0|`): 21
+unique, known globally optimal solutions in non-dominated front (`X_22`): 10
+top ten ranked solutions in population
+(acc (g2): 0.800, coverage (g1): 0.933, cost (g3*):84.00), [Q]: [0, 3, 2, 3, 1, 3, 3, 0, 3, 2, 2, 1]
+(acc (g2): 0.814, coverage (g1): 0.933, cost (g3*):87.73), [Q]: [0, 3, 3, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.855, coverage (g1): 0.920, cost (g3*):93.33), [Q]: [2, 3, 3, 3, 0, 3, 3, 0, 3, 3, 3, 1]
+(acc (g2): 0.803, coverage (g1): 0.947, cost (g3*):98.53), [Q]: [0, 2, 3, 3, 2, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.857, coverage (g1): 0.933, cost (g3*):109.33), [Q]: [2, 3, 2, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.861, coverage (g1): 0.960, cost (g3*):162.00), [Q]: [2, 3, 0, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 2, 3, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 3, 3, 3, 0, 3, 3, 0, 2, 2, 3, 1]
+(acc (g2): 0.877, coverage (g1): 0.867, cost (g3*):135.33), [Q]: [1, 3, 3, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+(acc (g2): 0.879, coverage (g1): 0.880, cost (g3*):160.53), [Q]: [1, 3, 2, 2, 0, 3, 3, 1, 1, 2, 3, 0]
+247 chromosomes must be generated for the next population
+
+generation 23, experiment: 0, time_elapsed (minutes): 0.76
+elite size (`M`, `elite_size`): 54
+number of uniqe, non-dominated solutions (`|E*_0|`): 20
+unique, known globally optimal solutions in non-dominated front (`X_23`): 10
+top ten ranked solutions in population
+(acc (g2): 0.800, coverage (g1): 0.933, cost (g3*):84.00), [Q]: [0, 3, 2, 3, 1, 3, 3, 0, 3, 2, 2, 1]
+(acc (g2): 0.814, coverage (g1): 0.933, cost (g3*):87.73), [Q]: [0, 3, 3, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.855, coverage (g1): 0.920, cost (g3*):93.33), [Q]: [2, 3, 3, 3, 0, 3, 3, 0, 3, 3, 3, 1]
+(acc (g2): 0.803, coverage (g1): 0.947, cost (g3*):98.53), [Q]: [0, 2, 3, 3, 2, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.857, coverage (g1): 0.933, cost (g3*):109.33), [Q]: [2, 3, 2, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.861, coverage (g1): 0.960, cost (g3*):162.00), [Q]: [2, 3, 0, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 2, 3, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 3, 3, 3, 0, 3, 3, 0, 2, 2, 3, 1]
+(acc (g2): 0.877, coverage (g1): 0.867, cost (g3*):135.33), [Q]: [1, 3, 3, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+(acc (g2): 0.879, coverage (g1): 0.880, cost (g3*):160.53), [Q]: [1, 3, 2, 2, 0, 3, 3, 1, 1, 2, 3, 0]
+246 chromosomes must be generated for the next population
+
+generation 24, experiment: 0, time_elapsed (minutes): 0.788
+elite size (`M`, `elite_size`): 52
+number of uniqe, non-dominated solutions (`|E*_0|`): 21
+unique, known globally optimal solutions in non-dominated front (`X_24`): 11
+top ten ranked solutions in population
+(acc (g2): 0.800, coverage (g1): 0.933, cost (g3*):83.60), [Q]: [0, 3, 2, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.814, coverage (g1): 0.933, cost (g3*):87.73), [Q]: [0, 3, 3, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.855, coverage (g1): 0.920, cost (g3*):93.33), [Q]: [2, 3, 3, 3, 0, 3, 3, 0, 3, 3, 3, 1]
+(acc (g2): 0.803, coverage (g1): 0.947, cost (g3*):98.53), [Q]: [0, 2, 3, 3, 2, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.857, coverage (g1): 0.933, cost (g3*):109.33), [Q]: [2, 3, 2, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.861, coverage (g1): 0.960, cost (g3*):162.00), [Q]: [2, 3, 0, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 2, 3, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 3, 3, 3, 0, 3, 3, 0, 2, 2, 3, 1]
+(acc (g2): 0.877, coverage (g1): 0.867, cost (g3*):135.33), [Q]: [1, 3, 3, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+(acc (g2): 0.879, coverage (g1): 0.880, cost (g3*):160.53), [Q]: [1, 3, 2, 2, 0, 3, 3, 1, 1, 2, 3, 0]
+248 chromosomes must be generated for the next population
+
+generation 25, experiment: 0, time_elapsed (minutes): 0.817
+elite size (`M`, `elite_size`): 53
+number of uniqe, non-dominated solutions (`|E*_0|`): 21
+unique, known globally optimal solutions in non-dominated front (`X_25`): 12
+top ten ranked solutions in population
+(acc (g2): 0.800, coverage (g1): 0.933, cost (g3*):83.60), [Q]: [0, 3, 2, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.814, coverage (g1): 0.933, cost (g3*):87.73), [Q]: [0, 3, 3, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.803, coverage (g1): 0.947, cost (g3*):90.53), [Q]: [0, 3, 3, 3, 2, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.855, coverage (g1): 0.920, cost (g3*):93.33), [Q]: [2, 3, 3, 3, 0, 3, 3, 0, 3, 3, 3, 1]
+(acc (g2): 0.857, coverage (g1): 0.933, cost (g3*):109.33), [Q]: [2, 3, 2, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.861, coverage (g1): 0.960, cost (g3*):162.00), [Q]: [2, 3, 0, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 2, 3, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 3, 3, 3, 0, 3, 3, 0, 2, 2, 3, 1]
+(acc (g2): 0.877, coverage (g1): 0.867, cost (g3*):135.33), [Q]: [1, 3, 3, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+(acc (g2): 0.879, coverage (g1): 0.880, cost (g3*):160.53), [Q]: [1, 3, 2, 2, 0, 3, 3, 1, 1, 2, 3, 0]
+247 chromosomes must be generated for the next population
+
+generation 26, experiment: 0, time_elapsed (minutes): 0.844
+elite size (`M`, `elite_size`): 51
+number of uniqe, non-dominated solutions (`|E*_0|`): 22
+unique, known globally optimal solutions in non-dominated front (`X_26`): 12
+top ten ranked solutions in population
+(acc (g2): 0.800, coverage (g1): 0.933, cost (g3*):83.60), [Q]: [0, 3, 2, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.814, coverage (g1): 0.933, cost (g3*):87.73), [Q]: [0, 3, 3, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.803, coverage (g1): 0.947, cost (g3*):90.53), [Q]: [0, 3, 3, 3, 2, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.855, coverage (g1): 0.920, cost (g3*):93.33), [Q]: [2, 3, 3, 3, 0, 3, 3, 0, 3, 3, 3, 1]
+(acc (g2): 0.857, coverage (g1): 0.933, cost (g3*):109.33), [Q]: [2, 3, 2, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.861, coverage (g1): 0.960, cost (g3*):162.00), [Q]: [2, 3, 0, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 2, 3, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 3, 3, 3, 0, 3, 3, 0, 2, 2, 3, 1]
+(acc (g2): 0.877, coverage (g1): 0.867, cost (g3*):135.33), [Q]: [1, 3, 3, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+(acc (g2): 0.879, coverage (g1): 0.880, cost (g3*):160.53), [Q]: [1, 3, 2, 2, 0, 3, 3, 1, 1, 2, 3, 0]
+249 chromosomes must be generated for the next population
+
+generation 27, experiment: 0, time_elapsed (minutes): 0.87
+elite size (`M`, `elite_size`): 52
+number of uniqe, non-dominated solutions (`|E*_0|`): 22
+unique, known globally optimal solutions in non-dominated front (`X_27`): 12
+top ten ranked solutions in population
+(acc (g2): 0.800, coverage (g1): 0.933, cost (g3*):83.60), [Q]: [0, 3, 2, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.814, coverage (g1): 0.933, cost (g3*):87.73), [Q]: [0, 3, 3, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.803, coverage (g1): 0.947, cost (g3*):90.53), [Q]: [0, 3, 3, 3, 2, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.855, coverage (g1): 0.920, cost (g3*):93.33), [Q]: [2, 3, 3, 3, 0, 3, 3, 0, 3, 3, 3, 1]
+(acc (g2): 0.857, coverage (g1): 0.933, cost (g3*):109.33), [Q]: [2, 3, 2, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.861, coverage (g1): 0.960, cost (g3*):162.00), [Q]: [2, 3, 0, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 2, 3, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 3, 3, 3, 0, 3, 3, 0, 2, 2, 3, 1]
+(acc (g2): 0.877, coverage (g1): 0.867, cost (g3*):135.33), [Q]: [1, 3, 3, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+(acc (g2): 0.879, coverage (g1): 0.880, cost (g3*):160.53), [Q]: [1, 3, 2, 2, 0, 3, 3, 1, 1, 2, 3, 0]
+248 chromosomes must be generated for the next population
+
+generation 28, experiment: 0, time_elapsed (minutes): 0.896
+elite size (`M`, `elite_size`): 50
+number of uniqe, non-dominated solutions (`|E*_0|`): 22
+unique, known globally optimal solutions in non-dominated front (`X_28`): 12
+top ten ranked solutions in population
+(acc (g2): 0.800, coverage (g1): 0.933, cost (g3*):83.60), [Q]: [0, 3, 2, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.814, coverage (g1): 0.933, cost (g3*):87.73), [Q]: [0, 3, 3, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.803, coverage (g1): 0.947, cost (g3*):90.53), [Q]: [0, 3, 3, 3, 2, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.855, coverage (g1): 0.920, cost (g3*):93.33), [Q]: [2, 3, 3, 3, 0, 3, 3, 0, 3, 3, 3, 1]
+(acc (g2): 0.857, coverage (g1): 0.933, cost (g3*):109.33), [Q]: [2, 3, 2, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.861, coverage (g1): 0.960, cost (g3*):162.00), [Q]: [2, 3, 0, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 2, 3, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 3, 3, 3, 0, 3, 3, 0, 2, 2, 3, 1]
+(acc (g2): 0.877, coverage (g1): 0.867, cost (g3*):135.33), [Q]: [1, 3, 3, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+(acc (g2): 0.879, coverage (g1): 0.880, cost (g3*):160.53), [Q]: [1, 3, 2, 2, 0, 3, 3, 1, 1, 2, 3, 0]
+250 chromosomes must be generated for the next population
+
+generation 29, experiment: 0, time_elapsed (minutes): 0.924
+elite size (`M`, `elite_size`): 52
+number of uniqe, non-dominated solutions (`|E*_0|`): 22
+unique, known globally optimal solutions in non-dominated front (`X_29`): 12
+top ten ranked solutions in population
+(acc (g2): 0.800, coverage (g1): 0.933, cost (g3*):83.60), [Q]: [0, 3, 2, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.814, coverage (g1): 0.933, cost (g3*):87.73), [Q]: [0, 3, 3, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.803, coverage (g1): 0.947, cost (g3*):90.53), [Q]: [0, 3, 3, 3, 2, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.855, coverage (g1): 0.920, cost (g3*):93.33), [Q]: [2, 3, 3, 3, 0, 3, 3, 0, 3, 3, 3, 1]
+(acc (g2): 0.857, coverage (g1): 0.933, cost (g3*):109.33), [Q]: [2, 3, 2, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.861, coverage (g1): 0.960, cost (g3*):162.00), [Q]: [2, 3, 0, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 2, 3, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 3, 3, 3, 0, 3, 3, 0, 2, 2, 3, 1]
+(acc (g2): 0.877, coverage (g1): 0.867, cost (g3*):135.33), [Q]: [1, 3, 3, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+(acc (g2): 0.879, coverage (g1): 0.880, cost (g3*):160.53), [Q]: [1, 3, 2, 2, 0, 3, 3, 1, 1, 2, 3, 0]
+248 chromosomes must be generated for the next population
+
+generation 30, experiment: 0, time_elapsed (minutes): 0.952
+elite size (`M`, `elite_size`): 52
+number of uniqe, non-dominated solutions (`|E*_0|`): 22
+unique, known globally optimal solutions in non-dominated front (`X_30`): 12
+top ten ranked solutions in population
+(acc (g2): 0.800, coverage (g1): 0.933, cost (g3*):83.60), [Q]: [0, 3, 2, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.814, coverage (g1): 0.933, cost (g3*):87.73), [Q]: [0, 3, 3, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.803, coverage (g1): 0.947, cost (g3*):90.53), [Q]: [0, 3, 3, 3, 2, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.855, coverage (g1): 0.920, cost (g3*):93.33), [Q]: [2, 3, 3, 3, 0, 3, 3, 0, 3, 3, 3, 1]
+(acc (g2): 0.857, coverage (g1): 0.933, cost (g3*):109.33), [Q]: [2, 3, 2, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.861, coverage (g1): 0.960, cost (g3*):162.00), [Q]: [2, 3, 0, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 2, 3, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 3, 3, 3, 0, 3, 3, 0, 2, 2, 3, 1]
+(acc (g2): 0.877, coverage (g1): 0.867, cost (g3*):135.33), [Q]: [1, 3, 3, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+(acc (g2): 0.879, coverage (g1): 0.880, cost (g3*):160.53), [Q]: [1, 3, 2, 2, 0, 3, 3, 1, 1, 2, 3, 0]
+248 chromosomes must be generated for the next population
+
+generation 31, experiment: 0, time_elapsed (minutes): 0.978
+elite size (`M`, `elite_size`): 53
+number of uniqe, non-dominated solutions (`|E*_0|`): 22
+unique, known globally optimal solutions in non-dominated front (`X_31`): 12
+top ten ranked solutions in population
+(acc (g2): 0.800, coverage (g1): 0.933, cost (g3*):83.60), [Q]: [0, 3, 2, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.814, coverage (g1): 0.933, cost (g3*):87.73), [Q]: [0, 3, 3, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.803, coverage (g1): 0.947, cost (g3*):90.53), [Q]: [0, 3, 3, 3, 2, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.855, coverage (g1): 0.920, cost (g3*):93.33), [Q]: [2, 3, 3, 3, 0, 3, 3, 0, 3, 3, 3, 1]
+(acc (g2): 0.857, coverage (g1): 0.933, cost (g3*):109.33), [Q]: [2, 3, 2, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.861, coverage (g1): 0.960, cost (g3*):162.00), [Q]: [2, 3, 0, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 2, 3, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 3, 3, 3, 0, 3, 3, 0, 2, 2, 3, 1]
+(acc (g2): 0.877, coverage (g1): 0.867, cost (g3*):135.33), [Q]: [1, 3, 3, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+(acc (g2): 0.879, coverage (g1): 0.880, cost (g3*):160.53), [Q]: [1, 3, 2, 2, 0, 3, 3, 1, 1, 2, 3, 0]
+247 chromosomes must be generated for the next population
+
+generation 32, experiment: 0, time_elapsed (minutes): 1.005
+elite size (`M`, `elite_size`): 54
+number of uniqe, non-dominated solutions (`|E*_0|`): 22
+unique, known globally optimal solutions in non-dominated front (`X_32`): 12
+top ten ranked solutions in population
+(acc (g2): 0.800, coverage (g1): 0.933, cost (g3*):83.60), [Q]: [0, 3, 2, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.814, coverage (g1): 0.933, cost (g3*):87.73), [Q]: [0, 3, 3, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.803, coverage (g1): 0.947, cost (g3*):90.53), [Q]: [0, 3, 3, 3, 2, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.855, coverage (g1): 0.920, cost (g3*):93.33), [Q]: [2, 3, 3, 3, 0, 3, 3, 0, 3, 3, 3, 1]
+(acc (g2): 0.857, coverage (g1): 0.933, cost (g3*):109.33), [Q]: [2, 3, 2, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.861, coverage (g1): 0.960, cost (g3*):162.00), [Q]: [2, 3, 0, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 2, 3, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 3, 3, 3, 0, 3, 3, 0, 2, 2, 3, 1]
+(acc (g2): 0.877, coverage (g1): 0.867, cost (g3*):135.33), [Q]: [1, 3, 3, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+(acc (g2): 0.879, coverage (g1): 0.880, cost (g3*):160.53), [Q]: [1, 3, 2, 2, 0, 3, 3, 1, 1, 2, 3, 0]
+246 chromosomes must be generated for the next population
+
+generation 33, experiment: 0, time_elapsed (minutes): 1.031
+elite size (`M`, `elite_size`): 52
+number of uniqe, non-dominated solutions (`|E*_0|`): 22
+unique, known globally optimal solutions in non-dominated front (`X_33`): 12
+top ten ranked solutions in population
+(acc (g2): 0.800, coverage (g1): 0.933, cost (g3*):83.60), [Q]: [0, 3, 2, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.814, coverage (g1): 0.933, cost (g3*):87.73), [Q]: [0, 3, 3, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.803, coverage (g1): 0.947, cost (g3*):90.53), [Q]: [0, 3, 3, 3, 2, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.855, coverage (g1): 0.920, cost (g3*):93.33), [Q]: [2, 3, 3, 3, 0, 3, 3, 0, 3, 3, 3, 1]
+(acc (g2): 0.857, coverage (g1): 0.933, cost (g3*):109.33), [Q]: [2, 3, 2, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.861, coverage (g1): 0.960, cost (g3*):162.00), [Q]: [2, 3, 0, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 2, 3, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 3, 3, 3, 0, 3, 3, 0, 2, 2, 3, 1]
+(acc (g2): 0.877, coverage (g1): 0.867, cost (g3*):135.33), [Q]: [1, 3, 3, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+(acc (g2): 0.879, coverage (g1): 0.880, cost (g3*):160.53), [Q]: [1, 3, 2, 2, 0, 3, 3, 1, 1, 2, 3, 0]
+248 chromosomes must be generated for the next population
+
+generation 34, experiment: 0, time_elapsed (minutes): 1.06
+elite size (`M`, `elite_size`): 51
+number of uniqe, non-dominated solutions (`|E*_0|`): 22
+unique, known globally optimal solutions in non-dominated front (`X_34`): 12
+top ten ranked solutions in population
+(acc (g2): 0.800, coverage (g1): 0.933, cost (g3*):83.60), [Q]: [0, 3, 2, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.814, coverage (g1): 0.933, cost (g3*):87.73), [Q]: [0, 3, 3, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.803, coverage (g1): 0.947, cost (g3*):90.53), [Q]: [0, 3, 3, 3, 2, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.855, coverage (g1): 0.920, cost (g3*):93.33), [Q]: [2, 3, 3, 3, 0, 3, 3, 0, 3, 3, 3, 1]
+(acc (g2): 0.857, coverage (g1): 0.933, cost (g3*):109.33), [Q]: [2, 3, 2, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.861, coverage (g1): 0.960, cost (g3*):162.00), [Q]: [2, 3, 0, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 2, 3, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 3, 3, 3, 0, 3, 3, 0, 2, 2, 3, 1]
+(acc (g2): 0.877, coverage (g1): 0.867, cost (g3*):135.33), [Q]: [1, 3, 3, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+(acc (g2): 0.879, coverage (g1): 0.880, cost (g3*):160.53), [Q]: [1, 3, 2, 2, 0, 3, 3, 1, 1, 2, 3, 0]
+249 chromosomes must be generated for the next population
+
+generation 35, experiment: 0, time_elapsed (minutes): 1.085
+elite size (`M`, `elite_size`): 51
+number of uniqe, non-dominated solutions (`|E*_0|`): 22
+unique, known globally optimal solutions in non-dominated front (`X_35`): 12
+top ten ranked solutions in population
+(acc (g2): 0.800, coverage (g1): 0.933, cost (g3*):83.60), [Q]: [0, 3, 2, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.814, coverage (g1): 0.933, cost (g3*):87.73), [Q]: [0, 3, 3, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.803, coverage (g1): 0.947, cost (g3*):90.53), [Q]: [0, 3, 3, 3, 2, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.855, coverage (g1): 0.920, cost (g3*):93.33), [Q]: [2, 3, 3, 3, 0, 3, 3, 0, 3, 3, 3, 1]
+(acc (g2): 0.857, coverage (g1): 0.933, cost (g3*):109.33), [Q]: [2, 3, 2, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.861, coverage (g1): 0.960, cost (g3*):162.00), [Q]: [2, 3, 0, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 2, 3, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 3, 3, 3, 0, 3, 3, 0, 2, 2, 3, 1]
+(acc (g2): 0.877, coverage (g1): 0.867, cost (g3*):135.33), [Q]: [1, 3, 3, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+(acc (g2): 0.879, coverage (g1): 0.880, cost (g3*):160.53), [Q]: [1, 3, 2, 2, 0, 3, 3, 1, 1, 2, 3, 0]
+249 chromosomes must be generated for the next population
+
+generation 36, experiment: 0, time_elapsed (minutes): 1.115
+elite size (`M`, `elite_size`): 53
+number of uniqe, non-dominated solutions (`|E*_0|`): 23
+unique, known globally optimal solutions in non-dominated front (`X_36`): 13
+top ten ranked solutions in population
+(acc (g2): 0.800, coverage (g1): 0.933, cost (g3*):83.60), [Q]: [0, 3, 2, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.814, coverage (g1): 0.933, cost (g3*):87.73), [Q]: [0, 3, 3, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.803, coverage (g1): 0.947, cost (g3*):90.53), [Q]: [0, 3, 3, 3, 2, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.855, coverage (g1): 0.920, cost (g3*):93.33), [Q]: [2, 3, 3, 3, 0, 3, 3, 0, 3, 3, 3, 1]
+(acc (g2): 0.857, coverage (g1): 0.933, cost (g3*):109.33), [Q]: [2, 3, 2, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.861, coverage (g1): 0.960, cost (g3*):162.00), [Q]: [2, 3, 0, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 2, 3, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 3, 3, 3, 0, 3, 3, 0, 2, 2, 3, 1]
+(acc (g2): 0.877, coverage (g1): 0.867, cost (g3*):135.33), [Q]: [1, 3, 3, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+(acc (g2): 0.862, coverage (g1): 0.867, cost (g3*):132.53), [Q]: [1, 3, 2, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+247 chromosomes must be generated for the next population
+
+generation 37, experiment: 0, time_elapsed (minutes): 1.141
+elite size (`M`, `elite_size`): 51
+number of uniqe, non-dominated solutions (`|E*_0|`): 23
+unique, known globally optimal solutions in non-dominated front (`X_37`): 13
+top ten ranked solutions in population
+(acc (g2): 0.800, coverage (g1): 0.933, cost (g3*):83.60), [Q]: [0, 3, 2, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.814, coverage (g1): 0.933, cost (g3*):87.73), [Q]: [0, 3, 3, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.803, coverage (g1): 0.947, cost (g3*):90.53), [Q]: [0, 3, 3, 3, 2, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.855, coverage (g1): 0.920, cost (g3*):93.33), [Q]: [2, 3, 3, 3, 0, 3, 3, 0, 3, 3, 3, 1]
+(acc (g2): 0.857, coverage (g1): 0.933, cost (g3*):109.33), [Q]: [2, 3, 2, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.861, coverage (g1): 0.960, cost (g3*):162.00), [Q]: [2, 3, 0, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 2, 3, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 3, 3, 3, 0, 3, 3, 0, 2, 2, 3, 1]
+(acc (g2): 0.877, coverage (g1): 0.867, cost (g3*):135.33), [Q]: [1, 3, 3, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+(acc (g2): 0.862, coverage (g1): 0.867, cost (g3*):132.53), [Q]: [1, 3, 2, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+249 chromosomes must be generated for the next population
+
+generation 38, experiment: 0, time_elapsed (minutes): 1.169
+elite size (`M`, `elite_size`): 51
+number of uniqe, non-dominated solutions (`|E*_0|`): 23
+unique, known globally optimal solutions in non-dominated front (`X_38`): 13
+top ten ranked solutions in population
+(acc (g2): 0.800, coverage (g1): 0.933, cost (g3*):83.60), [Q]: [0, 3, 2, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.814, coverage (g1): 0.933, cost (g3*):87.73), [Q]: [0, 3, 3, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.803, coverage (g1): 0.947, cost (g3*):90.53), [Q]: [0, 3, 3, 3, 2, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.855, coverage (g1): 0.920, cost (g3*):93.33), [Q]: [2, 3, 3, 3, 0, 3, 3, 0, 3, 3, 3, 1]
+(acc (g2): 0.857, coverage (g1): 0.933, cost (g3*):109.33), [Q]: [2, 3, 2, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.861, coverage (g1): 0.960, cost (g3*):162.00), [Q]: [2, 3, 0, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 2, 3, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 3, 3, 3, 0, 3, 3, 0, 2, 2, 3, 1]
+(acc (g2): 0.877, coverage (g1): 0.867, cost (g3*):135.33), [Q]: [1, 3, 3, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+(acc (g2): 0.862, coverage (g1): 0.867, cost (g3*):132.53), [Q]: [1, 3, 2, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+249 chromosomes must be generated for the next population
+
+generation 39, experiment: 0, time_elapsed (minutes): 1.196
+elite size (`M`, `elite_size`): 50
+number of uniqe, non-dominated solutions (`|E*_0|`): 23
+unique, known globally optimal solutions in non-dominated front (`X_39`): 13
+top ten ranked solutions in population
+(acc (g2): 0.800, coverage (g1): 0.933, cost (g3*):83.60), [Q]: [0, 3, 2, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.814, coverage (g1): 0.933, cost (g3*):87.73), [Q]: [0, 3, 3, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.803, coverage (g1): 0.947, cost (g3*):90.53), [Q]: [0, 3, 3, 3, 2, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.855, coverage (g1): 0.920, cost (g3*):93.33), [Q]: [2, 3, 3, 3, 0, 3, 3, 0, 3, 3, 3, 1]
+(acc (g2): 0.857, coverage (g1): 0.933, cost (g3*):109.33), [Q]: [2, 3, 2, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.861, coverage (g1): 0.960, cost (g3*):162.00), [Q]: [2, 3, 0, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 2, 3, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 3, 3, 3, 0, 3, 3, 0, 2, 2, 3, 1]
+(acc (g2): 0.877, coverage (g1): 0.867, cost (g3*):135.33), [Q]: [1, 3, 3, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+(acc (g2): 0.862, coverage (g1): 0.867, cost (g3*):132.53), [Q]: [1, 3, 2, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+250 chromosomes must be generated for the next population
+
+generation 40, experiment: 0, time_elapsed (minutes): 1.224
+elite size (`M`, `elite_size`): 51
+number of uniqe, non-dominated solutions (`|E*_0|`): 23
+unique, known globally optimal solutions in non-dominated front (`X_40`): 13
+top ten ranked solutions in population
+(acc (g2): 0.800, coverage (g1): 0.933, cost (g3*):83.60), [Q]: [0, 3, 2, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.814, coverage (g1): 0.933, cost (g3*):87.73), [Q]: [0, 3, 3, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.803, coverage (g1): 0.947, cost (g3*):90.53), [Q]: [0, 3, 3, 3, 2, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.855, coverage (g1): 0.920, cost (g3*):93.33), [Q]: [2, 3, 3, 3, 0, 3, 3, 0, 3, 3, 3, 1]
+(acc (g2): 0.857, coverage (g1): 0.933, cost (g3*):109.33), [Q]: [2, 3, 2, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.861, coverage (g1): 0.960, cost (g3*):162.00), [Q]: [2, 3, 0, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 2, 3, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 3, 3, 3, 0, 3, 3, 0, 2, 2, 3, 1]
+(acc (g2): 0.877, coverage (g1): 0.867, cost (g3*):135.33), [Q]: [1, 3, 3, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+(acc (g2): 0.862, coverage (g1): 0.867, cost (g3*):132.53), [Q]: [1, 3, 2, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+249 chromosomes must be generated for the next population
+
+generation 41, experiment: 0, time_elapsed (minutes): 1.248
+elite size (`M`, `elite_size`): 50
+number of uniqe, non-dominated solutions (`|E*_0|`): 23
+unique, known globally optimal solutions in non-dominated front (`X_41`): 13
+top ten ranked solutions in population
+(acc (g2): 0.800, coverage (g1): 0.933, cost (g3*):83.60), [Q]: [0, 3, 2, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.814, coverage (g1): 0.933, cost (g3*):87.73), [Q]: [0, 3, 3, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.803, coverage (g1): 0.947, cost (g3*):90.53), [Q]: [0, 3, 3, 3, 2, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.855, coverage (g1): 0.920, cost (g3*):93.33), [Q]: [2, 3, 3, 3, 0, 3, 3, 0, 3, 3, 3, 1]
+(acc (g2): 0.857, coverage (g1): 0.933, cost (g3*):109.33), [Q]: [2, 3, 2, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.861, coverage (g1): 0.960, cost (g3*):162.00), [Q]: [2, 3, 0, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 2, 3, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 3, 3, 3, 0, 3, 3, 0, 2, 2, 3, 1]
+(acc (g2): 0.877, coverage (g1): 0.867, cost (g3*):135.33), [Q]: [1, 3, 3, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+(acc (g2): 0.862, coverage (g1): 0.867, cost (g3*):132.53), [Q]: [1, 3, 2, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+250 chromosomes must be generated for the next population
+
+generation 42, experiment: 0, time_elapsed (minutes): 1.274
+elite size (`M`, `elite_size`): 51
+number of uniqe, non-dominated solutions (`|E*_0|`): 23
+unique, known globally optimal solutions in non-dominated front (`X_42`): 13
+top ten ranked solutions in population
+(acc (g2): 0.800, coverage (g1): 0.933, cost (g3*):83.60), [Q]: [0, 3, 2, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.814, coverage (g1): 0.933, cost (g3*):87.73), [Q]: [0, 3, 3, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.803, coverage (g1): 0.947, cost (g3*):90.53), [Q]: [0, 3, 3, 3, 2, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.855, coverage (g1): 0.920, cost (g3*):93.33), [Q]: [2, 3, 3, 3, 0, 3, 3, 0, 3, 3, 3, 1]
+(acc (g2): 0.857, coverage (g1): 0.933, cost (g3*):109.33), [Q]: [2, 3, 2, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.861, coverage (g1): 0.960, cost (g3*):162.00), [Q]: [2, 3, 0, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 2, 3, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 3, 3, 3, 0, 3, 3, 0, 2, 2, 3, 1]
+(acc (g2): 0.877, coverage (g1): 0.867, cost (g3*):135.33), [Q]: [1, 3, 3, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+(acc (g2): 0.862, coverage (g1): 0.867, cost (g3*):132.53), [Q]: [1, 3, 2, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+249 chromosomes must be generated for the next population
+
+generation 43, experiment: 0, time_elapsed (minutes): 1.298
+elite size (`M`, `elite_size`): 50
+number of uniqe, non-dominated solutions (`|E*_0|`): 23
+unique, known globally optimal solutions in non-dominated front (`X_43`): 13
+top ten ranked solutions in population
+(acc (g2): 0.800, coverage (g1): 0.933, cost (g3*):83.60), [Q]: [0, 3, 2, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.814, coverage (g1): 0.933, cost (g3*):87.73), [Q]: [0, 3, 3, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.803, coverage (g1): 0.947, cost (g3*):90.53), [Q]: [0, 3, 3, 3, 2, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.855, coverage (g1): 0.920, cost (g3*):93.33), [Q]: [2, 3, 3, 3, 0, 3, 3, 0, 3, 3, 3, 1]
+(acc (g2): 0.857, coverage (g1): 0.933, cost (g3*):109.33), [Q]: [2, 3, 2, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.861, coverage (g1): 0.960, cost (g3*):162.00), [Q]: [2, 3, 0, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 2, 3, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 3, 3, 3, 0, 3, 3, 0, 2, 2, 3, 1]
+(acc (g2): 0.877, coverage (g1): 0.867, cost (g3*):135.33), [Q]: [1, 3, 3, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+(acc (g2): 0.862, coverage (g1): 0.867, cost (g3*):132.53), [Q]: [1, 3, 2, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+250 chromosomes must be generated for the next population
+
+generation 44, experiment: 0, time_elapsed (minutes): 1.325
+elite size (`M`, `elite_size`): 51
+number of uniqe, non-dominated solutions (`|E*_0|`): 24
+unique, known globally optimal solutions in non-dominated front (`X_44`): 14
+top ten ranked solutions in population
+(acc (g2): 0.800, coverage (g1): 0.933, cost (g3*):83.60), [Q]: [0, 3, 2, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.814, coverage (g1): 0.933, cost (g3*):87.73), [Q]: [0, 3, 3, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.803, coverage (g1): 0.947, cost (g3*):90.53), [Q]: [0, 3, 3, 3, 2, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.855, coverage (g1): 0.920, cost (g3*):93.33), [Q]: [2, 3, 3, 3, 0, 3, 3, 0, 3, 3, 3, 1]
+(acc (g2): 0.857, coverage (g1): 0.933, cost (g3*):109.33), [Q]: [2, 3, 2, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.861, coverage (g1): 0.960, cost (g3*):162.00), [Q]: [2, 3, 0, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 2, 3, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 3, 3, 3, 0, 3, 3, 0, 2, 2, 3, 1]
+(acc (g2): 0.877, coverage (g1): 0.867, cost (g3*):135.33), [Q]: [1, 3, 3, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+(acc (g2): 0.862, coverage (g1): 0.867, cost (g3*):132.53), [Q]: [1, 3, 2, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+249 chromosomes must be generated for the next population
+
+generation 45, experiment: 0, time_elapsed (minutes): 1.352
+elite size (`M`, `elite_size`): 52
+number of uniqe, non-dominated solutions (`|E*_0|`): 24
+unique, known globally optimal solutions in non-dominated front (`X_45`): 14
+top ten ranked solutions in population
+(acc (g2): 0.800, coverage (g1): 0.933, cost (g3*):83.60), [Q]: [0, 3, 2, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.814, coverage (g1): 0.933, cost (g3*):87.73), [Q]: [0, 3, 3, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.803, coverage (g1): 0.947, cost (g3*):90.53), [Q]: [0, 3, 3, 3, 2, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.855, coverage (g1): 0.920, cost (g3*):93.33), [Q]: [2, 3, 3, 3, 0, 3, 3, 0, 3, 3, 3, 1]
+(acc (g2): 0.857, coverage (g1): 0.933, cost (g3*):109.33), [Q]: [2, 3, 2, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.861, coverage (g1): 0.960, cost (g3*):162.00), [Q]: [2, 3, 0, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 2, 3, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 3, 3, 3, 0, 3, 3, 0, 2, 2, 3, 1]
+(acc (g2): 0.877, coverage (g1): 0.867, cost (g3*):135.33), [Q]: [1, 3, 3, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+(acc (g2): 0.862, coverage (g1): 0.867, cost (g3*):132.53), [Q]: [1, 3, 2, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+248 chromosomes must be generated for the next population
+
+generation 46, experiment: 0, time_elapsed (minutes): 1.378
+elite size (`M`, `elite_size`): 52
+number of uniqe, non-dominated solutions (`|E*_0|`): 24
+unique, known globally optimal solutions in non-dominated front (`X_46`): 14
+top ten ranked solutions in population
+(acc (g2): 0.800, coverage (g1): 0.933, cost (g3*):83.60), [Q]: [0, 3, 2, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.814, coverage (g1): 0.933, cost (g3*):87.73), [Q]: [0, 3, 3, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.803, coverage (g1): 0.947, cost (g3*):90.53), [Q]: [0, 3, 3, 3, 2, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.855, coverage (g1): 0.920, cost (g3*):93.33), [Q]: [2, 3, 3, 3, 0, 3, 3, 0, 3, 3, 3, 1]
+(acc (g2): 0.857, coverage (g1): 0.933, cost (g3*):109.33), [Q]: [2, 3, 2, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.861, coverage (g1): 0.960, cost (g3*):162.00), [Q]: [2, 3, 0, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 2, 3, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 3, 3, 3, 0, 3, 3, 0, 2, 2, 3, 1]
+(acc (g2): 0.877, coverage (g1): 0.867, cost (g3*):135.33), [Q]: [1, 3, 3, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+(acc (g2): 0.862, coverage (g1): 0.867, cost (g3*):132.53), [Q]: [1, 3, 2, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+248 chromosomes must be generated for the next population
+
+generation 47, experiment: 0, time_elapsed (minutes): 1.404
+elite size (`M`, `elite_size`): 52
+number of uniqe, non-dominated solutions (`|E*_0|`): 24
+unique, known globally optimal solutions in non-dominated front (`X_47`): 14
+top ten ranked solutions in population
+(acc (g2): 0.800, coverage (g1): 0.933, cost (g3*):83.60), [Q]: [0, 3, 2, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.814, coverage (g1): 0.933, cost (g3*):87.73), [Q]: [0, 3, 3, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.803, coverage (g1): 0.947, cost (g3*):90.53), [Q]: [0, 3, 3, 3, 2, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.855, coverage (g1): 0.920, cost (g3*):93.33), [Q]: [2, 3, 3, 3, 0, 3, 3, 0, 3, 3, 3, 1]
+(acc (g2): 0.857, coverage (g1): 0.933, cost (g3*):109.33), [Q]: [2, 3, 2, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.861, coverage (g1): 0.960, cost (g3*):162.00), [Q]: [2, 3, 0, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 2, 3, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 3, 3, 3, 0, 3, 3, 0, 2, 2, 3, 1]
+(acc (g2): 0.877, coverage (g1): 0.867, cost (g3*):135.33), [Q]: [1, 3, 3, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+(acc (g2): 0.862, coverage (g1): 0.867, cost (g3*):132.53), [Q]: [1, 3, 2, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+248 chromosomes must be generated for the next population
+
+generation 48, experiment: 0, time_elapsed (minutes): 1.428
+elite size (`M`, `elite_size`): 49
+number of uniqe, non-dominated solutions (`|E*_0|`): 24
+unique, known globally optimal solutions in non-dominated front (`X_48`): 14
+top ten ranked solutions in population
+(acc (g2): 0.800, coverage (g1): 0.933, cost (g3*):83.60), [Q]: [0, 3, 2, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.814, coverage (g1): 0.933, cost (g3*):87.73), [Q]: [0, 3, 3, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.803, coverage (g1): 0.947, cost (g3*):90.53), [Q]: [0, 3, 3, 3, 2, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.855, coverage (g1): 0.920, cost (g3*):93.33), [Q]: [2, 3, 3, 3, 0, 3, 3, 0, 3, 3, 3, 1]
+(acc (g2): 0.857, coverage (g1): 0.933, cost (g3*):109.33), [Q]: [2, 3, 2, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.861, coverage (g1): 0.960, cost (g3*):162.00), [Q]: [2, 3, 0, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 2, 3, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 3, 3, 3, 0, 3, 3, 0, 2, 2, 3, 1]
+(acc (g2): 0.877, coverage (g1): 0.867, cost (g3*):135.33), [Q]: [1, 3, 3, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+(acc (g2): 0.862, coverage (g1): 0.867, cost (g3*):132.53), [Q]: [1, 3, 2, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+251 chromosomes must be generated for the next population
+
+generation 49, experiment: 0, time_elapsed (minutes): 1.454
+elite size (`M`, `elite_size`): 51
+number of uniqe, non-dominated solutions (`|E*_0|`): 25
+unique, known globally optimal solutions in non-dominated front (`X_49`): 14
+top ten ranked solutions in population
+(acc (g2): 0.800, coverage (g1): 0.933, cost (g3*):83.60), [Q]: [0, 3, 2, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.814, coverage (g1): 0.933, cost (g3*):87.73), [Q]: [0, 3, 3, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.803, coverage (g1): 0.947, cost (g3*):90.53), [Q]: [0, 3, 3, 3, 2, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.855, coverage (g1): 0.920, cost (g3*):93.33), [Q]: [2, 3, 3, 3, 0, 3, 3, 0, 3, 3, 3, 1]
+(acc (g2): 0.857, coverage (g1): 0.933, cost (g3*):109.33), [Q]: [2, 3, 2, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.861, coverage (g1): 0.960, cost (g3*):162.00), [Q]: [2, 3, 0, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 2, 3, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 3, 3, 3, 0, 3, 3, 0, 2, 2, 3, 1]
+(acc (g2): 0.877, coverage (g1): 0.867, cost (g3*):135.33), [Q]: [1, 3, 3, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+(acc (g2): 0.862, coverage (g1): 0.867, cost (g3*):132.53), [Q]: [1, 3, 2, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+249 chromosomes must be generated for the next population
+
+generation 50, experiment: 0, time_elapsed (minutes): 1.479
+elite size (`M`, `elite_size`): 49
+number of uniqe, non-dominated solutions (`|E*_0|`): 25
+unique, known globally optimal solutions in non-dominated front (`X_50`): 14
+top ten ranked solutions in population
+(acc (g2): 0.800, coverage (g1): 0.933, cost (g3*):83.60), [Q]: [0, 3, 2, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.814, coverage (g1): 0.933, cost (g3*):87.73), [Q]: [0, 3, 3, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.803, coverage (g1): 0.947, cost (g3*):90.53), [Q]: [0, 3, 3, 3, 2, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.855, coverage (g1): 0.920, cost (g3*):93.33), [Q]: [2, 3, 3, 3, 0, 3, 3, 0, 3, 3, 3, 1]
+(acc (g2): 0.857, coverage (g1): 0.933, cost (g3*):109.33), [Q]: [2, 3, 2, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.861, coverage (g1): 0.960, cost (g3*):162.00), [Q]: [2, 3, 0, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 2, 3, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 3, 3, 3, 0, 3, 3, 0, 2, 2, 3, 1]
+(acc (g2): 0.877, coverage (g1): 0.867, cost (g3*):135.33), [Q]: [1, 3, 3, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+(acc (g2): 0.862, coverage (g1): 0.867, cost (g3*):132.53), [Q]: [1, 3, 2, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+251 chromosomes must be generated for the next population
+
+generation 51, experiment: 0, time_elapsed (minutes): 1.504
+elite size (`M`, `elite_size`): 51
+number of uniqe, non-dominated solutions (`|E*_0|`): 26
+unique, known globally optimal solutions in non-dominated front (`X_51`): 14
+top ten ranked solutions in population
+(acc (g2): 0.800, coverage (g1): 0.933, cost (g3*):83.60), [Q]: [0, 3, 2, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.814, coverage (g1): 0.933, cost (g3*):87.73), [Q]: [0, 3, 3, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.803, coverage (g1): 0.947, cost (g3*):90.53), [Q]: [0, 3, 3, 3, 2, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.855, coverage (g1): 0.920, cost (g3*):93.33), [Q]: [2, 3, 3, 3, 0, 3, 3, 0, 3, 3, 3, 1]
+(acc (g2): 0.857, coverage (g1): 0.933, cost (g3*):109.33), [Q]: [2, 3, 2, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.861, coverage (g1): 0.960, cost (g3*):162.00), [Q]: [2, 3, 0, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 2, 3, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 3, 3, 3, 0, 3, 3, 0, 2, 2, 3, 1]
+(acc (g2): 0.877, coverage (g1): 0.867, cost (g3*):135.33), [Q]: [1, 3, 3, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+(acc (g2): 0.862, coverage (g1): 0.867, cost (g3*):132.53), [Q]: [1, 3, 2, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+249 chromosomes must be generated for the next population
+
+generation 52, experiment: 0, time_elapsed (minutes): 1.528
+elite size (`M`, `elite_size`): 52
+number of uniqe, non-dominated solutions (`|E*_0|`): 26
+unique, known globally optimal solutions in non-dominated front (`X_52`): 14
+top ten ranked solutions in population
+(acc (g2): 0.800, coverage (g1): 0.933, cost (g3*):83.60), [Q]: [0, 3, 2, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.814, coverage (g1): 0.933, cost (g3*):87.73), [Q]: [0, 3, 3, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.803, coverage (g1): 0.947, cost (g3*):90.53), [Q]: [0, 3, 3, 3, 2, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.855, coverage (g1): 0.920, cost (g3*):93.33), [Q]: [2, 3, 3, 3, 0, 3, 3, 0, 3, 3, 3, 1]
+(acc (g2): 0.857, coverage (g1): 0.933, cost (g3*):109.33), [Q]: [2, 3, 2, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.861, coverage (g1): 0.960, cost (g3*):162.00), [Q]: [2, 3, 0, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 2, 3, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 3, 3, 3, 0, 3, 3, 0, 2, 2, 3, 1]
+(acc (g2): 0.877, coverage (g1): 0.867, cost (g3*):135.33), [Q]: [1, 3, 3, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+(acc (g2): 0.862, coverage (g1): 0.867, cost (g3*):132.53), [Q]: [1, 3, 2, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+248 chromosomes must be generated for the next population
+
+generation 53, experiment: 0, time_elapsed (minutes): 1.553
+elite size (`M`, `elite_size`): 52
+number of uniqe, non-dominated solutions (`|E*_0|`): 26
+unique, known globally optimal solutions in non-dominated front (`X_53`): 14
+top ten ranked solutions in population
+(acc (g2): 0.800, coverage (g1): 0.933, cost (g3*):83.60), [Q]: [0, 3, 2, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.814, coverage (g1): 0.933, cost (g3*):87.73), [Q]: [0, 3, 3, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.803, coverage (g1): 0.947, cost (g3*):90.53), [Q]: [0, 3, 3, 3, 2, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.855, coverage (g1): 0.920, cost (g3*):93.33), [Q]: [2, 3, 3, 3, 0, 3, 3, 0, 3, 3, 3, 1]
+(acc (g2): 0.857, coverage (g1): 0.933, cost (g3*):109.33), [Q]: [2, 3, 2, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.861, coverage (g1): 0.960, cost (g3*):162.00), [Q]: [2, 3, 0, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 2, 3, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 3, 3, 3, 0, 3, 3, 0, 2, 2, 3, 1]
+(acc (g2): 0.877, coverage (g1): 0.867, cost (g3*):135.33), [Q]: [1, 3, 3, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+(acc (g2): 0.862, coverage (g1): 0.867, cost (g3*):132.53), [Q]: [1, 3, 2, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+248 chromosomes must be generated for the next population
+
+generation 54, experiment: 0, time_elapsed (minutes): 1.578
+elite size (`M`, `elite_size`): 51
+number of uniqe, non-dominated solutions (`|E*_0|`): 26
+unique, known globally optimal solutions in non-dominated front (`X_54`): 14
+top ten ranked solutions in population
+(acc (g2): 0.800, coverage (g1): 0.933, cost (g3*):83.60), [Q]: [0, 3, 2, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.814, coverage (g1): 0.933, cost (g3*):87.73), [Q]: [0, 3, 3, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.803, coverage (g1): 0.947, cost (g3*):90.53), [Q]: [0, 3, 3, 3, 2, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.855, coverage (g1): 0.920, cost (g3*):93.33), [Q]: [2, 3, 3, 3, 0, 3, 3, 0, 3, 3, 3, 1]
+(acc (g2): 0.857, coverage (g1): 0.933, cost (g3*):109.33), [Q]: [2, 3, 2, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.861, coverage (g1): 0.960, cost (g3*):162.00), [Q]: [2, 3, 0, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 2, 3, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 3, 3, 3, 0, 3, 3, 0, 2, 2, 3, 1]
+(acc (g2): 0.877, coverage (g1): 0.867, cost (g3*):135.33), [Q]: [1, 3, 3, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+(acc (g2): 0.862, coverage (g1): 0.867, cost (g3*):132.53), [Q]: [1, 3, 2, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+249 chromosomes must be generated for the next population
+
+generation 55, experiment: 0, time_elapsed (minutes): 1.604
+elite size (`M`, `elite_size`): 53
+number of uniqe, non-dominated solutions (`|E*_0|`): 26
+unique, known globally optimal solutions in non-dominated front (`X_55`): 14
+top ten ranked solutions in population
+(acc (g2): 0.800, coverage (g1): 0.933, cost (g3*):83.60), [Q]: [0, 3, 2, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.814, coverage (g1): 0.933, cost (g3*):87.73), [Q]: [0, 3, 3, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.803, coverage (g1): 0.947, cost (g3*):90.53), [Q]: [0, 3, 3, 3, 2, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.855, coverage (g1): 0.920, cost (g3*):93.33), [Q]: [2, 3, 3, 3, 0, 3, 3, 0, 3, 3, 3, 1]
+(acc (g2): 0.857, coverage (g1): 0.933, cost (g3*):109.33), [Q]: [2, 3, 2, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.861, coverage (g1): 0.960, cost (g3*):162.00), [Q]: [2, 3, 0, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 2, 3, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 3, 3, 3, 0, 3, 3, 0, 2, 2, 3, 1]
+(acc (g2): 0.877, coverage (g1): 0.867, cost (g3*):135.33), [Q]: [1, 3, 3, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+(acc (g2): 0.862, coverage (g1): 0.867, cost (g3*):132.53), [Q]: [1, 3, 2, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+247 chromosomes must be generated for the next population
+
+generation 56, experiment: 0, time_elapsed (minutes): 1.629
+elite size (`M`, `elite_size`): 52
+number of uniqe, non-dominated solutions (`|E*_0|`): 26
+unique, known globally optimal solutions in non-dominated front (`X_56`): 14
+top ten ranked solutions in population
+(acc (g2): 0.800, coverage (g1): 0.933, cost (g3*):83.60), [Q]: [0, 3, 2, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.814, coverage (g1): 0.933, cost (g3*):87.73), [Q]: [0, 3, 3, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.803, coverage (g1): 0.947, cost (g3*):90.53), [Q]: [0, 3, 3, 3, 2, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.855, coverage (g1): 0.920, cost (g3*):93.33), [Q]: [2, 3, 3, 3, 0, 3, 3, 0, 3, 3, 3, 1]
+(acc (g2): 0.857, coverage (g1): 0.933, cost (g3*):109.33), [Q]: [2, 3, 2, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.861, coverage (g1): 0.960, cost (g3*):162.00), [Q]: [2, 3, 0, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 2, 3, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 3, 3, 3, 0, 3, 3, 0, 2, 2, 3, 1]
+(acc (g2): 0.877, coverage (g1): 0.867, cost (g3*):135.33), [Q]: [1, 3, 3, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+(acc (g2): 0.862, coverage (g1): 0.867, cost (g3*):132.53), [Q]: [1, 3, 2, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+248 chromosomes must be generated for the next population
+
+generation 57, experiment: 0, time_elapsed (minutes): 1.656
+elite size (`M`, `elite_size`): 52
+number of uniqe, non-dominated solutions (`|E*_0|`): 26
+unique, known globally optimal solutions in non-dominated front (`X_57`): 14
+top ten ranked solutions in population
+(acc (g2): 0.800, coverage (g1): 0.933, cost (g3*):83.60), [Q]: [0, 3, 2, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.814, coverage (g1): 0.933, cost (g3*):87.73), [Q]: [0, 3, 3, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.803, coverage (g1): 0.947, cost (g3*):90.53), [Q]: [0, 3, 3, 3, 2, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.855, coverage (g1): 0.920, cost (g3*):93.33), [Q]: [2, 3, 3, 3, 0, 3, 3, 0, 3, 3, 3, 1]
+(acc (g2): 0.857, coverage (g1): 0.933, cost (g3*):109.33), [Q]: [2, 3, 2, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.861, coverage (g1): 0.960, cost (g3*):162.00), [Q]: [2, 3, 0, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 2, 3, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 3, 3, 3, 0, 3, 3, 0, 2, 2, 3, 1]
+(acc (g2): 0.877, coverage (g1): 0.867, cost (g3*):135.33), [Q]: [1, 3, 3, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+(acc (g2): 0.862, coverage (g1): 0.867, cost (g3*):132.53), [Q]: [1, 3, 2, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+248 chromosomes must be generated for the next population
+
+generation 58, experiment: 0, time_elapsed (minutes): 1.681
+elite size (`M`, `elite_size`): 54
+number of uniqe, non-dominated solutions (`|E*_0|`): 26
+unique, known globally optimal solutions in non-dominated front (`X_58`): 14
+top ten ranked solutions in population
+(acc (g2): 0.800, coverage (g1): 0.933, cost (g3*):83.60), [Q]: [0, 3, 2, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.814, coverage (g1): 0.933, cost (g3*):87.73), [Q]: [0, 3, 3, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.803, coverage (g1): 0.947, cost (g3*):90.53), [Q]: [0, 3, 3, 3, 2, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.855, coverage (g1): 0.920, cost (g3*):93.33), [Q]: [2, 3, 3, 3, 0, 3, 3, 0, 3, 3, 3, 1]
+(acc (g2): 0.857, coverage (g1): 0.933, cost (g3*):109.33), [Q]: [2, 3, 2, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.861, coverage (g1): 0.960, cost (g3*):162.00), [Q]: [2, 3, 0, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 2, 3, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 3, 3, 3, 0, 3, 3, 0, 2, 2, 3, 1]
+(acc (g2): 0.877, coverage (g1): 0.867, cost (g3*):135.33), [Q]: [1, 3, 3, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+(acc (g2): 0.862, coverage (g1): 0.867, cost (g3*):132.53), [Q]: [1, 3, 2, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+246 chromosomes must be generated for the next population
+
+generation 59, experiment: 0, time_elapsed (minutes): 1.706
+elite size (`M`, `elite_size`): 54
+number of uniqe, non-dominated solutions (`|E*_0|`): 26
+unique, known globally optimal solutions in non-dominated front (`X_59`): 14
+top ten ranked solutions in population
+(acc (g2): 0.800, coverage (g1): 0.933, cost (g3*):83.60), [Q]: [0, 3, 2, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.814, coverage (g1): 0.933, cost (g3*):87.73), [Q]: [0, 3, 3, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.803, coverage (g1): 0.947, cost (g3*):90.53), [Q]: [0, 3, 3, 3, 2, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.855, coverage (g1): 0.920, cost (g3*):93.33), [Q]: [2, 3, 3, 3, 0, 3, 3, 0, 3, 3, 3, 1]
+(acc (g2): 0.857, coverage (g1): 0.933, cost (g3*):109.33), [Q]: [2, 3, 2, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.861, coverage (g1): 0.960, cost (g3*):162.00), [Q]: [2, 3, 0, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 2, 3, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 3, 3, 3, 0, 3, 3, 0, 2, 2, 3, 1]
+(acc (g2): 0.877, coverage (g1): 0.867, cost (g3*):135.33), [Q]: [1, 3, 3, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+(acc (g2): 0.862, coverage (g1): 0.867, cost (g3*):132.53), [Q]: [1, 3, 2, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+246 chromosomes must be generated for the next population
+
+generation 60, experiment: 0, time_elapsed (minutes): 1.73
+elite size (`M`, `elite_size`): 53
+number of uniqe, non-dominated solutions (`|E*_0|`): 26
+unique, known globally optimal solutions in non-dominated front (`X_60`): 14
+top ten ranked solutions in population
+(acc (g2): 0.800, coverage (g1): 0.933, cost (g3*):83.60), [Q]: [0, 3, 2, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.814, coverage (g1): 0.933, cost (g3*):87.73), [Q]: [0, 3, 3, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.803, coverage (g1): 0.947, cost (g3*):90.53), [Q]: [0, 3, 3, 3, 2, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.855, coverage (g1): 0.920, cost (g3*):93.33), [Q]: [2, 3, 3, 3, 0, 3, 3, 0, 3, 3, 3, 1]
+(acc (g2): 0.857, coverage (g1): 0.933, cost (g3*):109.33), [Q]: [2, 3, 2, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.861, coverage (g1): 0.960, cost (g3*):162.00), [Q]: [2, 3, 0, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 2, 3, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 3, 3, 3, 0, 3, 3, 0, 2, 2, 3, 1]
+(acc (g2): 0.877, coverage (g1): 0.867, cost (g3*):135.33), [Q]: [1, 3, 3, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+(acc (g2): 0.862, coverage (g1): 0.867, cost (g3*):132.53), [Q]: [1, 3, 2, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+247 chromosomes must be generated for the next population
+
+generation 61, experiment: 0, time_elapsed (minutes): 1.756
+elite size (`M`, `elite_size`): 52
+number of uniqe, non-dominated solutions (`|E*_0|`): 26
+unique, known globally optimal solutions in non-dominated front (`X_61`): 14
+top ten ranked solutions in population
+(acc (g2): 0.800, coverage (g1): 0.933, cost (g3*):83.60), [Q]: [0, 3, 2, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.814, coverage (g1): 0.933, cost (g3*):87.73), [Q]: [0, 3, 3, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.803, coverage (g1): 0.947, cost (g3*):90.53), [Q]: [0, 3, 3, 3, 2, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.855, coverage (g1): 0.920, cost (g3*):93.33), [Q]: [2, 3, 3, 3, 0, 3, 3, 0, 3, 3, 3, 1]
+(acc (g2): 0.857, coverage (g1): 0.933, cost (g3*):109.33), [Q]: [2, 3, 2, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.861, coverage (g1): 0.960, cost (g3*):162.00), [Q]: [2, 3, 0, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 2, 3, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 3, 3, 3, 0, 3, 3, 0, 2, 2, 3, 1]
+(acc (g2): 0.877, coverage (g1): 0.867, cost (g3*):135.33), [Q]: [1, 3, 3, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+(acc (g2): 0.862, coverage (g1): 0.867, cost (g3*):132.53), [Q]: [1, 3, 2, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+248 chromosomes must be generated for the next population
+
+generation 62, experiment: 0, time_elapsed (minutes): 1.783
+elite size (`M`, `elite_size`): 54
+number of uniqe, non-dominated solutions (`|E*_0|`): 26
+unique, known globally optimal solutions in non-dominated front (`X_62`): 14
+top ten ranked solutions in population
+(acc (g2): 0.800, coverage (g1): 0.933, cost (g3*):83.60), [Q]: [0, 3, 2, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.814, coverage (g1): 0.933, cost (g3*):87.73), [Q]: [0, 3, 3, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.803, coverage (g1): 0.947, cost (g3*):90.53), [Q]: [0, 3, 3, 3, 2, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.855, coverage (g1): 0.920, cost (g3*):93.33), [Q]: [2, 3, 3, 3, 0, 3, 3, 0, 3, 3, 3, 1]
+(acc (g2): 0.857, coverage (g1): 0.933, cost (g3*):109.33), [Q]: [2, 3, 2, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.861, coverage (g1): 0.960, cost (g3*):162.00), [Q]: [2, 3, 0, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 2, 3, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 3, 3, 3, 0, 3, 3, 0, 2, 2, 3, 1]
+(acc (g2): 0.877, coverage (g1): 0.867, cost (g3*):135.33), [Q]: [1, 3, 3, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+(acc (g2): 0.862, coverage (g1): 0.867, cost (g3*):132.53), [Q]: [1, 3, 2, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+246 chromosomes must be generated for the next population
+
+generation 63, experiment: 0, time_elapsed (minutes): 1.808
+elite size (`M`, `elite_size`): 52
+number of uniqe, non-dominated solutions (`|E*_0|`): 26
+unique, known globally optimal solutions in non-dominated front (`X_63`): 14
+top ten ranked solutions in population
+(acc (g2): 0.800, coverage (g1): 0.933, cost (g3*):83.60), [Q]: [0, 3, 2, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.814, coverage (g1): 0.933, cost (g3*):87.73), [Q]: [0, 3, 3, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.803, coverage (g1): 0.947, cost (g3*):90.53), [Q]: [0, 3, 3, 3, 2, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.855, coverage (g1): 0.920, cost (g3*):93.33), [Q]: [2, 3, 3, 3, 0, 3, 3, 0, 3, 3, 3, 1]
+(acc (g2): 0.857, coverage (g1): 0.933, cost (g3*):109.33), [Q]: [2, 3, 2, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.861, coverage (g1): 0.960, cost (g3*):162.00), [Q]: [2, 3, 0, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 2, 3, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 3, 3, 3, 0, 3, 3, 0, 2, 2, 3, 1]
+(acc (g2): 0.877, coverage (g1): 0.867, cost (g3*):135.33), [Q]: [1, 3, 3, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+(acc (g2): 0.862, coverage (g1): 0.867, cost (g3*):132.53), [Q]: [1, 3, 2, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+248 chromosomes must be generated for the next population
+
+generation 64, experiment: 0, time_elapsed (minutes): 1.834
+elite size (`M`, `elite_size`): 52
+number of uniqe, non-dominated solutions (`|E*_0|`): 26
+unique, known globally optimal solutions in non-dominated front (`X_64`): 14
+top ten ranked solutions in population
+(acc (g2): 0.800, coverage (g1): 0.933, cost (g3*):83.60), [Q]: [0, 3, 2, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.814, coverage (g1): 0.933, cost (g3*):87.73), [Q]: [0, 3, 3, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.803, coverage (g1): 0.947, cost (g3*):90.53), [Q]: [0, 3, 3, 3, 2, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.855, coverage (g1): 0.920, cost (g3*):93.33), [Q]: [2, 3, 3, 3, 0, 3, 3, 0, 3, 3, 3, 1]
+(acc (g2): 0.857, coverage (g1): 0.933, cost (g3*):109.33), [Q]: [2, 3, 2, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.861, coverage (g1): 0.960, cost (g3*):162.00), [Q]: [2, 3, 0, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 2, 3, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 3, 3, 3, 0, 3, 3, 0, 2, 2, 3, 1]
+(acc (g2): 0.877, coverage (g1): 0.867, cost (g3*):135.33), [Q]: [1, 3, 3, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+(acc (g2): 0.862, coverage (g1): 0.867, cost (g3*):132.53), [Q]: [1, 3, 2, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+248 chromosomes must be generated for the next population
+
+generation 65, experiment: 0, time_elapsed (minutes): 1.859
+elite size (`M`, `elite_size`): 53
+number of uniqe, non-dominated solutions (`|E*_0|`): 26
+unique, known globally optimal solutions in non-dominated front (`X_65`): 14
+top ten ranked solutions in population
+(acc (g2): 0.800, coverage (g1): 0.933, cost (g3*):83.60), [Q]: [0, 3, 2, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.814, coverage (g1): 0.933, cost (g3*):87.73), [Q]: [0, 3, 3, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.803, coverage (g1): 0.947, cost (g3*):90.53), [Q]: [0, 3, 3, 3, 2, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.855, coverage (g1): 0.920, cost (g3*):93.33), [Q]: [2, 3, 3, 3, 0, 3, 3, 0, 3, 3, 3, 1]
+(acc (g2): 0.857, coverage (g1): 0.933, cost (g3*):109.33), [Q]: [2, 3, 2, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.861, coverage (g1): 0.960, cost (g3*):162.00), [Q]: [2, 3, 0, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 2, 3, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 3, 3, 3, 0, 3, 3, 0, 2, 2, 3, 1]
+(acc (g2): 0.877, coverage (g1): 0.867, cost (g3*):135.33), [Q]: [1, 3, 3, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+(acc (g2): 0.862, coverage (g1): 0.867, cost (g3*):132.53), [Q]: [1, 3, 2, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+247 chromosomes must be generated for the next population
+
+generation 66, experiment: 0, time_elapsed (minutes): 1.886
+elite size (`M`, `elite_size`): 53
+number of uniqe, non-dominated solutions (`|E*_0|`): 26
+unique, known globally optimal solutions in non-dominated front (`X_66`): 14
+top ten ranked solutions in population
+(acc (g2): 0.800, coverage (g1): 0.933, cost (g3*):83.60), [Q]: [0, 3, 2, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.814, coverage (g1): 0.933, cost (g3*):87.73), [Q]: [0, 3, 3, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.803, coverage (g1): 0.947, cost (g3*):90.53), [Q]: [0, 3, 3, 3, 2, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.855, coverage (g1): 0.920, cost (g3*):93.33), [Q]: [2, 3, 3, 3, 0, 3, 3, 0, 3, 3, 3, 1]
+(acc (g2): 0.857, coverage (g1): 0.933, cost (g3*):109.33), [Q]: [2, 3, 2, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.861, coverage (g1): 0.960, cost (g3*):162.00), [Q]: [2, 3, 0, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 2, 3, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 3, 3, 3, 0, 3, 3, 0, 2, 2, 3, 1]
+(acc (g2): 0.877, coverage (g1): 0.867, cost (g3*):135.33), [Q]: [1, 3, 3, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+(acc (g2): 0.862, coverage (g1): 0.867, cost (g3*):132.53), [Q]: [1, 3, 2, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+247 chromosomes must be generated for the next population
+
+generation 67, experiment: 0, time_elapsed (minutes): 1.912
+elite size (`M`, `elite_size`): 53
+number of uniqe, non-dominated solutions (`|E*_0|`): 26
+unique, known globally optimal solutions in non-dominated front (`X_67`): 14
+top ten ranked solutions in population
+(acc (g2): 0.800, coverage (g1): 0.933, cost (g3*):83.60), [Q]: [0, 3, 2, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.814, coverage (g1): 0.933, cost (g3*):87.73), [Q]: [0, 3, 3, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.803, coverage (g1): 0.947, cost (g3*):90.53), [Q]: [0, 3, 3, 3, 2, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.855, coverage (g1): 0.920, cost (g3*):93.33), [Q]: [2, 3, 3, 3, 0, 3, 3, 0, 3, 3, 3, 1]
+(acc (g2): 0.857, coverage (g1): 0.933, cost (g3*):109.33), [Q]: [2, 3, 2, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.861, coverage (g1): 0.960, cost (g3*):162.00), [Q]: [2, 3, 0, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 2, 3, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 3, 3, 3, 0, 3, 3, 0, 2, 2, 3, 1]
+(acc (g2): 0.877, coverage (g1): 0.867, cost (g3*):135.33), [Q]: [1, 3, 3, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+(acc (g2): 0.862, coverage (g1): 0.867, cost (g3*):132.53), [Q]: [1, 3, 2, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+247 chromosomes must be generated for the next population
+
+generation 68, experiment: 0, time_elapsed (minutes): 1.938
+elite size (`M`, `elite_size`): 52
+number of uniqe, non-dominated solutions (`|E*_0|`): 27
+unique, known globally optimal solutions in non-dominated front (`X_68`): 15
+top ten ranked solutions in population
+(acc (g2): 0.800, coverage (g1): 0.933, cost (g3*):83.60), [Q]: [0, 3, 2, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.814, coverage (g1): 0.933, cost (g3*):87.73), [Q]: [0, 3, 3, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.803, coverage (g1): 0.947, cost (g3*):90.53), [Q]: [0, 3, 3, 3, 2, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.855, coverage (g1): 0.920, cost (g3*):93.33), [Q]: [2, 3, 3, 3, 0, 3, 3, 0, 3, 3, 3, 1]
+(acc (g2): 0.857, coverage (g1): 0.933, cost (g3*):109.33), [Q]: [2, 3, 2, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.861, coverage (g1): 0.960, cost (g3*):162.00), [Q]: [2, 3, 0, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 2, 3, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 3, 3, 3, 0, 3, 3, 0, 2, 2, 3, 1]
+(acc (g2): 0.877, coverage (g1): 0.867, cost (g3*):135.33), [Q]: [1, 3, 3, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+(acc (g2): 0.862, coverage (g1): 0.867, cost (g3*):132.53), [Q]: [1, 3, 2, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+248 chromosomes must be generated for the next population
+
+generation 69, experiment: 0, time_elapsed (minutes): 1.963
+elite size (`M`, `elite_size`): 52
+number of uniqe, non-dominated solutions (`|E*_0|`): 27
+unique, known globally optimal solutions in non-dominated front (`X_69`): 15
+top ten ranked solutions in population
+(acc (g2): 0.800, coverage (g1): 0.933, cost (g3*):83.60), [Q]: [0, 3, 2, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.814, coverage (g1): 0.933, cost (g3*):87.73), [Q]: [0, 3, 3, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.803, coverage (g1): 0.947, cost (g3*):90.53), [Q]: [0, 3, 3, 3, 2, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.855, coverage (g1): 0.920, cost (g3*):93.33), [Q]: [2, 3, 3, 3, 0, 3, 3, 0, 3, 3, 3, 1]
+(acc (g2): 0.857, coverage (g1): 0.933, cost (g3*):109.33), [Q]: [2, 3, 2, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.861, coverage (g1): 0.960, cost (g3*):162.00), [Q]: [2, 3, 0, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 2, 3, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 3, 3, 3, 0, 3, 3, 0, 2, 2, 3, 1]
+(acc (g2): 0.877, coverage (g1): 0.867, cost (g3*):135.33), [Q]: [1, 3, 3, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+(acc (g2): 0.862, coverage (g1): 0.867, cost (g3*):132.53), [Q]: [1, 3, 2, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+248 chromosomes must be generated for the next population
+
+generation 70, experiment: 0, time_elapsed (minutes): 1.99
+elite size (`M`, `elite_size`): 54
+number of uniqe, non-dominated solutions (`|E*_0|`): 27
+unique, known globally optimal solutions in non-dominated front (`X_70`): 15
+top ten ranked solutions in population
+(acc (g2): 0.800, coverage (g1): 0.933, cost (g3*):83.60), [Q]: [0, 3, 2, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.814, coverage (g1): 0.933, cost (g3*):87.73), [Q]: [0, 3, 3, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.803, coverage (g1): 0.947, cost (g3*):90.53), [Q]: [0, 3, 3, 3, 2, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.855, coverage (g1): 0.920, cost (g3*):93.33), [Q]: [2, 3, 3, 3, 0, 3, 3, 0, 3, 3, 3, 1]
+(acc (g2): 0.857, coverage (g1): 0.933, cost (g3*):109.33), [Q]: [2, 3, 2, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.861, coverage (g1): 0.960, cost (g3*):162.00), [Q]: [2, 3, 0, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 2, 3, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 3, 3, 3, 0, 3, 3, 0, 2, 2, 3, 1]
+(acc (g2): 0.877, coverage (g1): 0.867, cost (g3*):135.33), [Q]: [1, 3, 3, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+(acc (g2): 0.862, coverage (g1): 0.867, cost (g3*):132.53), [Q]: [1, 3, 2, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+246 chromosomes must be generated for the next population
+
+generation 71, experiment: 0, time_elapsed (minutes): 2.016
+elite size (`M`, `elite_size`): 52
+number of uniqe, non-dominated solutions (`|E*_0|`): 27
+unique, known globally optimal solutions in non-dominated front (`X_71`): 15
+top ten ranked solutions in population
+(acc (g2): 0.800, coverage (g1): 0.933, cost (g3*):83.60), [Q]: [0, 3, 2, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.814, coverage (g1): 0.933, cost (g3*):87.73), [Q]: [0, 3, 3, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.803, coverage (g1): 0.947, cost (g3*):90.53), [Q]: [0, 3, 3, 3, 2, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.855, coverage (g1): 0.920, cost (g3*):93.33), [Q]: [2, 3, 3, 3, 0, 3, 3, 0, 3, 3, 3, 1]
+(acc (g2): 0.857, coverage (g1): 0.933, cost (g3*):109.33), [Q]: [2, 3, 2, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.861, coverage (g1): 0.960, cost (g3*):162.00), [Q]: [2, 3, 0, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 2, 3, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 3, 3, 3, 0, 3, 3, 0, 2, 2, 3, 1]
+(acc (g2): 0.877, coverage (g1): 0.867, cost (g3*):135.33), [Q]: [1, 3, 3, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+(acc (g2): 0.862, coverage (g1): 0.867, cost (g3*):132.53), [Q]: [1, 3, 2, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+248 chromosomes must be generated for the next population
+
+generation 72, experiment: 0, time_elapsed (minutes): 2.042
+elite size (`M`, `elite_size`): 50
+number of uniqe, non-dominated solutions (`|E*_0|`): 27
+unique, known globally optimal solutions in non-dominated front (`X_72`): 15
+top ten ranked solutions in population
+(acc (g2): 0.800, coverage (g1): 0.933, cost (g3*):83.60), [Q]: [0, 3, 2, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.814, coverage (g1): 0.933, cost (g3*):87.73), [Q]: [0, 3, 3, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.803, coverage (g1): 0.947, cost (g3*):90.53), [Q]: [0, 3, 3, 3, 2, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.855, coverage (g1): 0.920, cost (g3*):93.33), [Q]: [2, 3, 3, 3, 0, 3, 3, 0, 3, 3, 3, 1]
+(acc (g2): 0.857, coverage (g1): 0.933, cost (g3*):109.33), [Q]: [2, 3, 2, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.861, coverage (g1): 0.960, cost (g3*):162.00), [Q]: [2, 3, 0, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 2, 3, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 3, 3, 3, 0, 3, 3, 0, 2, 2, 3, 1]
+(acc (g2): 0.877, coverage (g1): 0.867, cost (g3*):135.33), [Q]: [1, 3, 3, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+(acc (g2): 0.862, coverage (g1): 0.867, cost (g3*):132.53), [Q]: [1, 3, 2, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+250 chromosomes must be generated for the next population
+
+generation 73, experiment: 0, time_elapsed (minutes): 2.068
+elite size (`M`, `elite_size`): 51
+number of uniqe, non-dominated solutions (`|E*_0|`): 27
+unique, known globally optimal solutions in non-dominated front (`X_73`): 15
+top ten ranked solutions in population
+(acc (g2): 0.800, coverage (g1): 0.933, cost (g3*):83.60), [Q]: [0, 3, 2, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.814, coverage (g1): 0.933, cost (g3*):87.73), [Q]: [0, 3, 3, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.803, coverage (g1): 0.947, cost (g3*):90.53), [Q]: [0, 3, 3, 3, 2, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.855, coverage (g1): 0.920, cost (g3*):93.33), [Q]: [2, 3, 3, 3, 0, 3, 3, 0, 3, 3, 3, 1]
+(acc (g2): 0.857, coverage (g1): 0.933, cost (g3*):109.33), [Q]: [2, 3, 2, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.861, coverage (g1): 0.960, cost (g3*):162.00), [Q]: [2, 3, 0, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 2, 3, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 3, 3, 3, 0, 3, 3, 0, 2, 2, 3, 1]
+(acc (g2): 0.877, coverage (g1): 0.867, cost (g3*):135.33), [Q]: [1, 3, 3, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+(acc (g2): 0.862, coverage (g1): 0.867, cost (g3*):132.53), [Q]: [1, 3, 2, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+249 chromosomes must be generated for the next population
+
+generation 74, experiment: 0, time_elapsed (minutes): 2.094
+elite size (`M`, `elite_size`): 52
+number of uniqe, non-dominated solutions (`|E*_0|`): 27
+unique, known globally optimal solutions in non-dominated front (`X_74`): 15
+top ten ranked solutions in population
+(acc (g2): 0.800, coverage (g1): 0.933, cost (g3*):83.60), [Q]: [0, 3, 2, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.814, coverage (g1): 0.933, cost (g3*):87.73), [Q]: [0, 3, 3, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.803, coverage (g1): 0.947, cost (g3*):90.53), [Q]: [0, 3, 3, 3, 2, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.855, coverage (g1): 0.920, cost (g3*):93.33), [Q]: [2, 3, 3, 3, 0, 3, 3, 0, 3, 3, 3, 1]
+(acc (g2): 0.857, coverage (g1): 0.933, cost (g3*):109.33), [Q]: [2, 3, 2, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.861, coverage (g1): 0.960, cost (g3*):162.00), [Q]: [2, 3, 0, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 2, 3, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 3, 3, 3, 0, 3, 3, 0, 2, 2, 3, 1]
+(acc (g2): 0.877, coverage (g1): 0.867, cost (g3*):135.33), [Q]: [1, 3, 3, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+(acc (g2): 0.862, coverage (g1): 0.867, cost (g3*):132.53), [Q]: [1, 3, 2, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+248 chromosomes must be generated for the next population
+
+generation 75, experiment: 0, time_elapsed (minutes): 2.118
+elite size (`M`, `elite_size`): 52
+number of uniqe, non-dominated solutions (`|E*_0|`): 27
+unique, known globally optimal solutions in non-dominated front (`X_75`): 15
+top ten ranked solutions in population
+(acc (g2): 0.800, coverage (g1): 0.933, cost (g3*):83.60), [Q]: [0, 3, 2, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.814, coverage (g1): 0.933, cost (g3*):87.73), [Q]: [0, 3, 3, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.803, coverage (g1): 0.947, cost (g3*):90.53), [Q]: [0, 3, 3, 3, 2, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.855, coverage (g1): 0.920, cost (g3*):93.33), [Q]: [2, 3, 3, 3, 0, 3, 3, 0, 3, 3, 3, 1]
+(acc (g2): 0.857, coverage (g1): 0.933, cost (g3*):109.33), [Q]: [2, 3, 2, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.861, coverage (g1): 0.960, cost (g3*):162.00), [Q]: [2, 3, 0, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 2, 3, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 3, 3, 3, 0, 3, 3, 0, 2, 2, 3, 1]
+(acc (g2): 0.877, coverage (g1): 0.867, cost (g3*):135.33), [Q]: [1, 3, 3, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+(acc (g2): 0.862, coverage (g1): 0.867, cost (g3*):132.53), [Q]: [1, 3, 2, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+248 chromosomes must be generated for the next population
+
+generation 76, experiment: 0, time_elapsed (minutes): 2.143
+elite size (`M`, `elite_size`): 52
+number of uniqe, non-dominated solutions (`|E*_0|`): 27
+unique, known globally optimal solutions in non-dominated front (`X_76`): 15
+top ten ranked solutions in population
+(acc (g2): 0.800, coverage (g1): 0.933, cost (g3*):83.60), [Q]: [0, 3, 2, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.814, coverage (g1): 0.933, cost (g3*):87.73), [Q]: [0, 3, 3, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.803, coverage (g1): 0.947, cost (g3*):90.53), [Q]: [0, 3, 3, 3, 2, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.855, coverage (g1): 0.920, cost (g3*):93.33), [Q]: [2, 3, 3, 3, 0, 3, 3, 0, 3, 3, 3, 1]
+(acc (g2): 0.857, coverage (g1): 0.933, cost (g3*):109.33), [Q]: [2, 3, 2, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.861, coverage (g1): 0.960, cost (g3*):162.00), [Q]: [2, 3, 0, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 2, 3, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 3, 3, 3, 0, 3, 3, 0, 2, 2, 3, 1]
+(acc (g2): 0.877, coverage (g1): 0.867, cost (g3*):135.33), [Q]: [1, 3, 3, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+(acc (g2): 0.862, coverage (g1): 0.867, cost (g3*):132.53), [Q]: [1, 3, 2, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+248 chromosomes must be generated for the next population
+
+generation 77, experiment: 0, time_elapsed (minutes): 2.168
+elite size (`M`, `elite_size`): 53
+number of uniqe, non-dominated solutions (`|E*_0|`): 27
+unique, known globally optimal solutions in non-dominated front (`X_77`): 15
+top ten ranked solutions in population
+(acc (g2): 0.800, coverage (g1): 0.933, cost (g3*):83.60), [Q]: [0, 3, 2, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.814, coverage (g1): 0.933, cost (g3*):87.73), [Q]: [0, 3, 3, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.803, coverage (g1): 0.947, cost (g3*):90.53), [Q]: [0, 3, 3, 3, 2, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.855, coverage (g1): 0.920, cost (g3*):93.33), [Q]: [2, 3, 3, 3, 0, 3, 3, 0, 3, 3, 3, 1]
+(acc (g2): 0.857, coverage (g1): 0.933, cost (g3*):109.33), [Q]: [2, 3, 2, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.861, coverage (g1): 0.960, cost (g3*):162.00), [Q]: [2, 3, 0, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 2, 3, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 3, 3, 3, 0, 3, 3, 0, 2, 2, 3, 1]
+(acc (g2): 0.877, coverage (g1): 0.867, cost (g3*):135.33), [Q]: [1, 3, 3, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+(acc (g2): 0.862, coverage (g1): 0.867, cost (g3*):132.53), [Q]: [1, 3, 2, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+247 chromosomes must be generated for the next population
+
+generation 78, experiment: 0, time_elapsed (minutes): 2.194
+elite size (`M`, `elite_size`): 52
+number of uniqe, non-dominated solutions (`|E*_0|`): 27
+unique, known globally optimal solutions in non-dominated front (`X_78`): 15
+top ten ranked solutions in population
+(acc (g2): 0.800, coverage (g1): 0.933, cost (g3*):83.60), [Q]: [0, 3, 2, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.814, coverage (g1): 0.933, cost (g3*):87.73), [Q]: [0, 3, 3, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.803, coverage (g1): 0.947, cost (g3*):90.53), [Q]: [0, 3, 3, 3, 2, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.855, coverage (g1): 0.920, cost (g3*):93.33), [Q]: [2, 3, 3, 3, 0, 3, 3, 0, 3, 3, 3, 1]
+(acc (g2): 0.857, coverage (g1): 0.933, cost (g3*):109.33), [Q]: [2, 3, 2, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.861, coverage (g1): 0.960, cost (g3*):162.00), [Q]: [2, 3, 0, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 2, 3, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 3, 3, 3, 0, 3, 3, 0, 2, 2, 3, 1]
+(acc (g2): 0.877, coverage (g1): 0.867, cost (g3*):135.33), [Q]: [1, 3, 3, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+(acc (g2): 0.862, coverage (g1): 0.867, cost (g3*):132.53), [Q]: [1, 3, 2, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+248 chromosomes must be generated for the next population
+
+generation 79, experiment: 0, time_elapsed (minutes): 2.218
+elite size (`M`, `elite_size`): 51
+number of uniqe, non-dominated solutions (`|E*_0|`): 27
+unique, known globally optimal solutions in non-dominated front (`X_79`): 15
+top ten ranked solutions in population
+(acc (g2): 0.800, coverage (g1): 0.933, cost (g3*):83.60), [Q]: [0, 3, 2, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.814, coverage (g1): 0.933, cost (g3*):87.73), [Q]: [0, 3, 3, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.803, coverage (g1): 0.947, cost (g3*):90.53), [Q]: [0, 3, 3, 3, 2, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.855, coverage (g1): 0.920, cost (g3*):93.33), [Q]: [2, 3, 3, 3, 0, 3, 3, 0, 3, 3, 3, 1]
+(acc (g2): 0.857, coverage (g1): 0.933, cost (g3*):109.33), [Q]: [2, 3, 2, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.861, coverage (g1): 0.960, cost (g3*):162.00), [Q]: [2, 3, 0, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 2, 3, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 3, 3, 3, 0, 3, 3, 0, 2, 2, 3, 1]
+(acc (g2): 0.877, coverage (g1): 0.867, cost (g3*):135.33), [Q]: [1, 3, 3, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+(acc (g2): 0.862, coverage (g1): 0.867, cost (g3*):132.53), [Q]: [1, 3, 2, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+249 chromosomes must be generated for the next population
+
+generation 80, experiment: 0, time_elapsed (minutes): 2.244
+elite size (`M`, `elite_size`): 52
+number of uniqe, non-dominated solutions (`|E*_0|`): 27
+unique, known globally optimal solutions in non-dominated front (`X_80`): 15
+top ten ranked solutions in population
+(acc (g2): 0.800, coverage (g1): 0.933, cost (g3*):83.60), [Q]: [0, 3, 2, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.814, coverage (g1): 0.933, cost (g3*):87.73), [Q]: [0, 3, 3, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.803, coverage (g1): 0.947, cost (g3*):90.53), [Q]: [0, 3, 3, 3, 2, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.855, coverage (g1): 0.920, cost (g3*):93.33), [Q]: [2, 3, 3, 3, 0, 3, 3, 0, 3, 3, 3, 1]
+(acc (g2): 0.857, coverage (g1): 0.933, cost (g3*):109.33), [Q]: [2, 3, 2, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.861, coverage (g1): 0.960, cost (g3*):162.00), [Q]: [2, 3, 0, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 2, 3, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 3, 3, 3, 0, 3, 3, 0, 2, 2, 3, 1]
+(acc (g2): 0.877, coverage (g1): 0.867, cost (g3*):135.33), [Q]: [1, 3, 3, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+(acc (g2): 0.862, coverage (g1): 0.867, cost (g3*):132.53), [Q]: [1, 3, 2, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+248 chromosomes must be generated for the next population
+
+generation 81, experiment: 0, time_elapsed (minutes): 2.268
+elite size (`M`, `elite_size`): 52
+number of uniqe, non-dominated solutions (`|E*_0|`): 28
+unique, known globally optimal solutions in non-dominated front (`X_81`): 16
+top ten ranked solutions in population
+(acc (g2): 0.800, coverage (g1): 0.933, cost (g3*):83.60), [Q]: [0, 3, 2, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.814, coverage (g1): 0.933, cost (g3*):87.73), [Q]: [0, 3, 3, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.803, coverage (g1): 0.947, cost (g3*):90.53), [Q]: [0, 3, 3, 3, 2, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.855, coverage (g1): 0.920, cost (g3*):93.33), [Q]: [2, 3, 3, 3, 0, 3, 3, 0, 3, 3, 3, 1]
+(acc (g2): 0.857, coverage (g1): 0.933, cost (g3*):109.33), [Q]: [2, 3, 2, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.861, coverage (g1): 0.960, cost (g3*):162.00), [Q]: [2, 3, 0, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 2, 3, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 3, 3, 3, 0, 3, 3, 0, 2, 2, 3, 1]
+(acc (g2): 0.877, coverage (g1): 0.867, cost (g3*):135.33), [Q]: [1, 3, 3, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+(acc (g2): 0.862, coverage (g1): 0.867, cost (g3*):132.53), [Q]: [1, 3, 2, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+248 chromosomes must be generated for the next population
+
+generation 82, experiment: 0, time_elapsed (minutes): 2.292
+elite size (`M`, `elite_size`): 53
+number of uniqe, non-dominated solutions (`|E*_0|`): 28
+unique, known globally optimal solutions in non-dominated front (`X_82`): 16
+top ten ranked solutions in population
+(acc (g2): 0.800, coverage (g1): 0.933, cost (g3*):83.60), [Q]: [0, 3, 2, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.814, coverage (g1): 0.933, cost (g3*):87.73), [Q]: [0, 3, 3, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.803, coverage (g1): 0.947, cost (g3*):90.53), [Q]: [0, 3, 3, 3, 2, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.855, coverage (g1): 0.920, cost (g3*):93.33), [Q]: [2, 3, 3, 3, 0, 3, 3, 0, 3, 3, 3, 1]
+(acc (g2): 0.857, coverage (g1): 0.933, cost (g3*):109.33), [Q]: [2, 3, 2, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.861, coverage (g1): 0.960, cost (g3*):162.00), [Q]: [2, 3, 0, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 2, 3, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 3, 3, 3, 0, 3, 3, 0, 2, 2, 3, 1]
+(acc (g2): 0.877, coverage (g1): 0.867, cost (g3*):135.33), [Q]: [1, 3, 3, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+(acc (g2): 0.862, coverage (g1): 0.867, cost (g3*):132.53), [Q]: [1, 3, 2, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+247 chromosomes must be generated for the next population
+
+generation 83, experiment: 0, time_elapsed (minutes): 2.316
+elite size (`M`, `elite_size`): 52
+number of uniqe, non-dominated solutions (`|E*_0|`): 28
+unique, known globally optimal solutions in non-dominated front (`X_83`): 16
+top ten ranked solutions in population
+(acc (g2): 0.800, coverage (g1): 0.933, cost (g3*):83.60), [Q]: [0, 3, 2, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.814, coverage (g1): 0.933, cost (g3*):87.73), [Q]: [0, 3, 3, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.803, coverage (g1): 0.947, cost (g3*):90.53), [Q]: [0, 3, 3, 3, 2, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.855, coverage (g1): 0.920, cost (g3*):93.33), [Q]: [2, 3, 3, 3, 0, 3, 3, 0, 3, 3, 3, 1]
+(acc (g2): 0.857, coverage (g1): 0.933, cost (g3*):109.33), [Q]: [2, 3, 2, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.861, coverage (g1): 0.960, cost (g3*):162.00), [Q]: [2, 3, 0, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 2, 3, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 3, 3, 3, 0, 3, 3, 0, 2, 2, 3, 1]
+(acc (g2): 0.877, coverage (g1): 0.867, cost (g3*):135.33), [Q]: [1, 3, 3, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+(acc (g2): 0.862, coverage (g1): 0.867, cost (g3*):132.53), [Q]: [1, 3, 2, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+248 chromosomes must be generated for the next population
+
+generation 84, experiment: 0, time_elapsed (minutes): 2.342
+elite size (`M`, `elite_size`): 53
+number of uniqe, non-dominated solutions (`|E*_0|`): 28
+unique, known globally optimal solutions in non-dominated front (`X_84`): 16
+top ten ranked solutions in population
+(acc (g2): 0.800, coverage (g1): 0.933, cost (g3*):83.60), [Q]: [0, 3, 2, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.814, coverage (g1): 0.933, cost (g3*):87.73), [Q]: [0, 3, 3, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.803, coverage (g1): 0.947, cost (g3*):90.53), [Q]: [0, 3, 3, 3, 2, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.855, coverage (g1): 0.920, cost (g3*):93.33), [Q]: [2, 3, 3, 3, 0, 3, 3, 0, 3, 3, 3, 1]
+(acc (g2): 0.857, coverage (g1): 0.933, cost (g3*):109.33), [Q]: [2, 3, 2, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.861, coverage (g1): 0.960, cost (g3*):162.00), [Q]: [2, 3, 0, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 2, 3, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 3, 3, 3, 0, 3, 3, 0, 2, 2, 3, 1]
+(acc (g2): 0.877, coverage (g1): 0.867, cost (g3*):135.33), [Q]: [1, 3, 3, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+(acc (g2): 0.862, coverage (g1): 0.867, cost (g3*):132.53), [Q]: [1, 3, 2, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+247 chromosomes must be generated for the next population
+
+generation 85, experiment: 0, time_elapsed (minutes): 2.367
+elite size (`M`, `elite_size`): 53
+number of uniqe, non-dominated solutions (`|E*_0|`): 28
+unique, known globally optimal solutions in non-dominated front (`X_85`): 16
+top ten ranked solutions in population
+(acc (g2): 0.800, coverage (g1): 0.933, cost (g3*):83.60), [Q]: [0, 3, 2, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.814, coverage (g1): 0.933, cost (g3*):87.73), [Q]: [0, 3, 3, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.803, coverage (g1): 0.947, cost (g3*):90.53), [Q]: [0, 3, 3, 3, 2, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.855, coverage (g1): 0.920, cost (g3*):93.33), [Q]: [2, 3, 3, 3, 0, 3, 3, 0, 3, 3, 3, 1]
+(acc (g2): 0.857, coverage (g1): 0.933, cost (g3*):109.33), [Q]: [2, 3, 2, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.861, coverage (g1): 0.960, cost (g3*):162.00), [Q]: [2, 3, 0, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 2, 3, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 3, 3, 3, 0, 3, 3, 0, 2, 2, 3, 1]
+(acc (g2): 0.877, coverage (g1): 0.867, cost (g3*):135.33), [Q]: [1, 3, 3, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+(acc (g2): 0.862, coverage (g1): 0.867, cost (g3*):132.53), [Q]: [1, 3, 2, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+247 chromosomes must be generated for the next population
+
+generation 86, experiment: 0, time_elapsed (minutes): 2.392
+elite size (`M`, `elite_size`): 52
+number of uniqe, non-dominated solutions (`|E*_0|`): 28
+unique, known globally optimal solutions in non-dominated front (`X_86`): 16
+top ten ranked solutions in population
+(acc (g2): 0.800, coverage (g1): 0.933, cost (g3*):83.60), [Q]: [0, 3, 2, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.814, coverage (g1): 0.933, cost (g3*):87.73), [Q]: [0, 3, 3, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.803, coverage (g1): 0.947, cost (g3*):90.53), [Q]: [0, 3, 3, 3, 2, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.855, coverage (g1): 0.920, cost (g3*):93.33), [Q]: [2, 3, 3, 3, 0, 3, 3, 0, 3, 3, 3, 1]
+(acc (g2): 0.857, coverage (g1): 0.933, cost (g3*):109.33), [Q]: [2, 3, 2, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.861, coverage (g1): 0.960, cost (g3*):162.00), [Q]: [2, 3, 0, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 2, 3, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 3, 3, 3, 0, 3, 3, 0, 2, 2, 3, 1]
+(acc (g2): 0.877, coverage (g1): 0.867, cost (g3*):135.33), [Q]: [1, 3, 3, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+(acc (g2): 0.862, coverage (g1): 0.867, cost (g3*):132.53), [Q]: [1, 3, 2, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+248 chromosomes must be generated for the next population
+
+generation 87, experiment: 0, time_elapsed (minutes): 2.417
+elite size (`M`, `elite_size`): 53
+number of uniqe, non-dominated solutions (`|E*_0|`): 28
+unique, known globally optimal solutions in non-dominated front (`X_87`): 16
+top ten ranked solutions in population
+(acc (g2): 0.800, coverage (g1): 0.933, cost (g3*):83.60), [Q]: [0, 3, 2, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.814, coverage (g1): 0.933, cost (g3*):87.73), [Q]: [0, 3, 3, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.803, coverage (g1): 0.947, cost (g3*):90.53), [Q]: [0, 3, 3, 3, 2, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.855, coverage (g1): 0.920, cost (g3*):93.33), [Q]: [2, 3, 3, 3, 0, 3, 3, 0, 3, 3, 3, 1]
+(acc (g2): 0.857, coverage (g1): 0.933, cost (g3*):109.33), [Q]: [2, 3, 2, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.861, coverage (g1): 0.960, cost (g3*):162.00), [Q]: [2, 3, 0, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 2, 3, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 3, 3, 3, 0, 3, 3, 0, 2, 2, 3, 1]
+(acc (g2): 0.877, coverage (g1): 0.867, cost (g3*):135.33), [Q]: [1, 3, 3, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+(acc (g2): 0.862, coverage (g1): 0.867, cost (g3*):132.53), [Q]: [1, 3, 2, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+247 chromosomes must be generated for the next population
+
+generation 88, experiment: 0, time_elapsed (minutes): 2.443
+elite size (`M`, `elite_size`): 52
+number of uniqe, non-dominated solutions (`|E*_0|`): 28
+unique, known globally optimal solutions in non-dominated front (`X_88`): 16
+top ten ranked solutions in population
+(acc (g2): 0.800, coverage (g1): 0.933, cost (g3*):83.60), [Q]: [0, 3, 2, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.814, coverage (g1): 0.933, cost (g3*):87.73), [Q]: [0, 3, 3, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.803, coverage (g1): 0.947, cost (g3*):90.53), [Q]: [0, 3, 3, 3, 2, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.855, coverage (g1): 0.920, cost (g3*):93.33), [Q]: [2, 3, 3, 3, 0, 3, 3, 0, 3, 3, 3, 1]
+(acc (g2): 0.857, coverage (g1): 0.933, cost (g3*):109.33), [Q]: [2, 3, 2, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.861, coverage (g1): 0.960, cost (g3*):162.00), [Q]: [2, 3, 0, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 2, 3, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 3, 3, 3, 0, 3, 3, 0, 2, 2, 3, 1]
+(acc (g2): 0.877, coverage (g1): 0.867, cost (g3*):135.33), [Q]: [1, 3, 3, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+(acc (g2): 0.862, coverage (g1): 0.867, cost (g3*):132.53), [Q]: [1, 3, 2, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+248 chromosomes must be generated for the next population
+
+generation 89, experiment: 0, time_elapsed (minutes): 2.468
+elite size (`M`, `elite_size`): 52
+number of uniqe, non-dominated solutions (`|E*_0|`): 28
+unique, known globally optimal solutions in non-dominated front (`X_89`): 16
+top ten ranked solutions in population
+(acc (g2): 0.800, coverage (g1): 0.933, cost (g3*):83.60), [Q]: [0, 3, 2, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.814, coverage (g1): 0.933, cost (g3*):87.73), [Q]: [0, 3, 3, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.803, coverage (g1): 0.947, cost (g3*):90.53), [Q]: [0, 3, 3, 3, 2, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.855, coverage (g1): 0.920, cost (g3*):93.33), [Q]: [2, 3, 3, 3, 0, 3, 3, 0, 3, 3, 3, 1]
+(acc (g2): 0.857, coverage (g1): 0.933, cost (g3*):109.33), [Q]: [2, 3, 2, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.861, coverage (g1): 0.960, cost (g3*):162.00), [Q]: [2, 3, 0, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 2, 3, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 3, 3, 3, 0, 3, 3, 0, 2, 2, 3, 1]
+(acc (g2): 0.877, coverage (g1): 0.867, cost (g3*):135.33), [Q]: [1, 3, 3, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+(acc (g2): 0.862, coverage (g1): 0.867, cost (g3*):132.53), [Q]: [1, 3, 2, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+248 chromosomes must be generated for the next population
+
+generation 90, experiment: 0, time_elapsed (minutes): 2.492
+elite size (`M`, `elite_size`): 52
+number of uniqe, non-dominated solutions (`|E*_0|`): 28
+unique, known globally optimal solutions in non-dominated front (`X_90`): 16
+top ten ranked solutions in population
+(acc (g2): 0.800, coverage (g1): 0.933, cost (g3*):83.60), [Q]: [0, 3, 2, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.814, coverage (g1): 0.933, cost (g3*):87.73), [Q]: [0, 3, 3, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.803, coverage (g1): 0.947, cost (g3*):90.53), [Q]: [0, 3, 3, 3, 2, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.855, coverage (g1): 0.920, cost (g3*):93.33), [Q]: [2, 3, 3, 3, 0, 3, 3, 0, 3, 3, 3, 1]
+(acc (g2): 0.857, coverage (g1): 0.933, cost (g3*):109.33), [Q]: [2, 3, 2, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.861, coverage (g1): 0.960, cost (g3*):162.00), [Q]: [2, 3, 0, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 2, 3, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 3, 3, 3, 0, 3, 3, 0, 2, 2, 3, 1]
+(acc (g2): 0.877, coverage (g1): 0.867, cost (g3*):135.33), [Q]: [1, 3, 3, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+(acc (g2): 0.862, coverage (g1): 0.867, cost (g3*):132.53), [Q]: [1, 3, 2, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+248 chromosomes must be generated for the next population
+
+generation 91, experiment: 0, time_elapsed (minutes): 2.516
+elite size (`M`, `elite_size`): 52
+number of uniqe, non-dominated solutions (`|E*_0|`): 28
+unique, known globally optimal solutions in non-dominated front (`X_91`): 16
+top ten ranked solutions in population
+(acc (g2): 0.800, coverage (g1): 0.933, cost (g3*):83.60), [Q]: [0, 3, 2, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.814, coverage (g1): 0.933, cost (g3*):87.73), [Q]: [0, 3, 3, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.803, coverage (g1): 0.947, cost (g3*):90.53), [Q]: [0, 3, 3, 3, 2, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.855, coverage (g1): 0.920, cost (g3*):93.33), [Q]: [2, 3, 3, 3, 0, 3, 3, 0, 3, 3, 3, 1]
+(acc (g2): 0.857, coverage (g1): 0.933, cost (g3*):109.33), [Q]: [2, 3, 2, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.861, coverage (g1): 0.960, cost (g3*):162.00), [Q]: [2, 3, 0, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 2, 3, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 3, 3, 3, 0, 3, 3, 0, 2, 2, 3, 1]
+(acc (g2): 0.877, coverage (g1): 0.867, cost (g3*):135.33), [Q]: [1, 3, 3, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+(acc (g2): 0.862, coverage (g1): 0.867, cost (g3*):132.53), [Q]: [1, 3, 2, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+248 chromosomes must be generated for the next population
+
+generation 92, experiment: 0, time_elapsed (minutes): 2.54
+elite size (`M`, `elite_size`): 52
+number of uniqe, non-dominated solutions (`|E*_0|`): 28
+unique, known globally optimal solutions in non-dominated front (`X_92`): 16
+top ten ranked solutions in population
+(acc (g2): 0.800, coverage (g1): 0.933, cost (g3*):83.60), [Q]: [0, 3, 2, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.814, coverage (g1): 0.933, cost (g3*):87.73), [Q]: [0, 3, 3, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.803, coverage (g1): 0.947, cost (g3*):90.53), [Q]: [0, 3, 3, 3, 2, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.855, coverage (g1): 0.920, cost (g3*):93.33), [Q]: [2, 3, 3, 3, 0, 3, 3, 0, 3, 3, 3, 1]
+(acc (g2): 0.857, coverage (g1): 0.933, cost (g3*):109.33), [Q]: [2, 3, 2, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.861, coverage (g1): 0.960, cost (g3*):162.00), [Q]: [2, 3, 0, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 2, 3, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 3, 3, 3, 0, 3, 3, 0, 2, 2, 3, 1]
+(acc (g2): 0.877, coverage (g1): 0.867, cost (g3*):135.33), [Q]: [1, 3, 3, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+(acc (g2): 0.862, coverage (g1): 0.867, cost (g3*):132.53), [Q]: [1, 3, 2, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+248 chromosomes must be generated for the next population
+
+generation 93, experiment: 0, time_elapsed (minutes): 2.567
+elite size (`M`, `elite_size`): 54
+number of uniqe, non-dominated solutions (`|E*_0|`): 28
+unique, known globally optimal solutions in non-dominated front (`X_93`): 16
+top ten ranked solutions in population
+(acc (g2): 0.800, coverage (g1): 0.933, cost (g3*):83.60), [Q]: [0, 3, 2, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.814, coverage (g1): 0.933, cost (g3*):87.73), [Q]: [0, 3, 3, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.803, coverage (g1): 0.947, cost (g3*):90.53), [Q]: [0, 3, 3, 3, 2, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.855, coverage (g1): 0.920, cost (g3*):93.33), [Q]: [2, 3, 3, 3, 0, 3, 3, 0, 3, 3, 3, 1]
+(acc (g2): 0.857, coverage (g1): 0.933, cost (g3*):109.33), [Q]: [2, 3, 2, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.861, coverage (g1): 0.960, cost (g3*):162.00), [Q]: [2, 3, 0, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 2, 3, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 3, 3, 3, 0, 3, 3, 0, 2, 2, 3, 1]
+(acc (g2): 0.877, coverage (g1): 0.867, cost (g3*):135.33), [Q]: [1, 3, 3, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+(acc (g2): 0.862, coverage (g1): 0.867, cost (g3*):132.53), [Q]: [1, 3, 2, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+246 chromosomes must be generated for the next population
+
+generation 94, experiment: 0, time_elapsed (minutes): 2.59
+elite size (`M`, `elite_size`): 52
+number of uniqe, non-dominated solutions (`|E*_0|`): 28
+unique, known globally optimal solutions in non-dominated front (`X_94`): 16
+top ten ranked solutions in population
+(acc (g2): 0.800, coverage (g1): 0.933, cost (g3*):83.60), [Q]: [0, 3, 2, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.814, coverage (g1): 0.933, cost (g3*):87.73), [Q]: [0, 3, 3, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.803, coverage (g1): 0.947, cost (g3*):90.53), [Q]: [0, 3, 3, 3, 2, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.855, coverage (g1): 0.920, cost (g3*):93.33), [Q]: [2, 3, 3, 3, 0, 3, 3, 0, 3, 3, 3, 1]
+(acc (g2): 0.857, coverage (g1): 0.933, cost (g3*):109.33), [Q]: [2, 3, 2, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.861, coverage (g1): 0.960, cost (g3*):162.00), [Q]: [2, 3, 0, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 2, 3, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 3, 3, 3, 0, 3, 3, 0, 2, 2, 3, 1]
+(acc (g2): 0.877, coverage (g1): 0.867, cost (g3*):135.33), [Q]: [1, 3, 3, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+(acc (g2): 0.862, coverage (g1): 0.867, cost (g3*):132.53), [Q]: [1, 3, 2, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+248 chromosomes must be generated for the next population
+
+generation 95, experiment: 0, time_elapsed (minutes): 2.615
+elite size (`M`, `elite_size`): 53
+number of uniqe, non-dominated solutions (`|E*_0|`): 28
+unique, known globally optimal solutions in non-dominated front (`X_95`): 16
+top ten ranked solutions in population
+(acc (g2): 0.800, coverage (g1): 0.933, cost (g3*):83.60), [Q]: [0, 3, 2, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.814, coverage (g1): 0.933, cost (g3*):87.73), [Q]: [0, 3, 3, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.803, coverage (g1): 0.947, cost (g3*):90.53), [Q]: [0, 3, 3, 3, 2, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.855, coverage (g1): 0.920, cost (g3*):93.33), [Q]: [2, 3, 3, 3, 0, 3, 3, 0, 3, 3, 3, 1]
+(acc (g2): 0.857, coverage (g1): 0.933, cost (g3*):109.33), [Q]: [2, 3, 2, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.861, coverage (g1): 0.960, cost (g3*):162.00), [Q]: [2, 3, 0, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 2, 3, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 3, 3, 3, 0, 3, 3, 0, 2, 2, 3, 1]
+(acc (g2): 0.877, coverage (g1): 0.867, cost (g3*):135.33), [Q]: [1, 3, 3, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+(acc (g2): 0.862, coverage (g1): 0.867, cost (g3*):132.53), [Q]: [1, 3, 2, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+247 chromosomes must be generated for the next population
+
+generation 96, experiment: 0, time_elapsed (minutes): 2.642
+elite size (`M`, `elite_size`): 53
+number of uniqe, non-dominated solutions (`|E*_0|`): 28
+unique, known globally optimal solutions in non-dominated front (`X_96`): 16
+top ten ranked solutions in population
+(acc (g2): 0.800, coverage (g1): 0.933, cost (g3*):83.60), [Q]: [0, 3, 2, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.814, coverage (g1): 0.933, cost (g3*):87.73), [Q]: [0, 3, 3, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.803, coverage (g1): 0.947, cost (g3*):90.53), [Q]: [0, 3, 3, 3, 2, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.855, coverage (g1): 0.920, cost (g3*):93.33), [Q]: [2, 3, 3, 3, 0, 3, 3, 0, 3, 3, 3, 1]
+(acc (g2): 0.857, coverage (g1): 0.933, cost (g3*):109.33), [Q]: [2, 3, 2, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.861, coverage (g1): 0.960, cost (g3*):162.00), [Q]: [2, 3, 0, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 2, 3, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 3, 3, 3, 0, 3, 3, 0, 2, 2, 3, 1]
+(acc (g2): 0.877, coverage (g1): 0.867, cost (g3*):135.33), [Q]: [1, 3, 3, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+(acc (g2): 0.862, coverage (g1): 0.867, cost (g3*):132.53), [Q]: [1, 3, 2, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+247 chromosomes must be generated for the next population
+
+generation 97, experiment: 0, time_elapsed (minutes): 2.667
+elite size (`M`, `elite_size`): 52
+number of uniqe, non-dominated solutions (`|E*_0|`): 28
+unique, known globally optimal solutions in non-dominated front (`X_97`): 16
+top ten ranked solutions in population
+(acc (g2): 0.800, coverage (g1): 0.933, cost (g3*):83.60), [Q]: [0, 3, 2, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.814, coverage (g1): 0.933, cost (g3*):87.73), [Q]: [0, 3, 3, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.803, coverage (g1): 0.947, cost (g3*):90.53), [Q]: [0, 3, 3, 3, 2, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.855, coverage (g1): 0.920, cost (g3*):93.33), [Q]: [2, 3, 3, 3, 0, 3, 3, 0, 3, 3, 3, 1]
+(acc (g2): 0.857, coverage (g1): 0.933, cost (g3*):109.33), [Q]: [2, 3, 2, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.861, coverage (g1): 0.960, cost (g3*):162.00), [Q]: [2, 3, 0, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 2, 3, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 3, 3, 3, 0, 3, 3, 0, 2, 2, 3, 1]
+(acc (g2): 0.877, coverage (g1): 0.867, cost (g3*):135.33), [Q]: [1, 3, 3, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+(acc (g2): 0.862, coverage (g1): 0.867, cost (g3*):132.53), [Q]: [1, 3, 2, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+248 chromosomes must be generated for the next population
+
+generation 98, experiment: 0, time_elapsed (minutes): 2.692
+elite size (`M`, `elite_size`): 53
+number of uniqe, non-dominated solutions (`|E*_0|`): 28
+unique, known globally optimal solutions in non-dominated front (`X_98`): 16
+top ten ranked solutions in population
+(acc (g2): 0.800, coverage (g1): 0.933, cost (g3*):83.60), [Q]: [0, 3, 2, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.814, coverage (g1): 0.933, cost (g3*):87.73), [Q]: [0, 3, 3, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.803, coverage (g1): 0.947, cost (g3*):90.53), [Q]: [0, 3, 3, 3, 2, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.855, coverage (g1): 0.920, cost (g3*):93.33), [Q]: [2, 3, 3, 3, 0, 3, 3, 0, 3, 3, 3, 1]
+(acc (g2): 0.857, coverage (g1): 0.933, cost (g3*):109.33), [Q]: [2, 3, 2, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.861, coverage (g1): 0.960, cost (g3*):162.00), [Q]: [2, 3, 0, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 2, 3, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 3, 3, 3, 0, 3, 3, 0, 2, 2, 3, 1]
+(acc (g2): 0.877, coverage (g1): 0.867, cost (g3*):135.33), [Q]: [1, 3, 3, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+(acc (g2): 0.862, coverage (g1): 0.867, cost (g3*):132.53), [Q]: [1, 3, 2, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+247 chromosomes must be generated for the next population
+
+generation 99, experiment: 0, time_elapsed (minutes): 2.717
+elite size (`M`, `elite_size`): 52
+number of uniqe, non-dominated solutions (`|E*_0|`): 28
+unique, known globally optimal solutions in non-dominated front (`X_99`): 16
+top ten ranked solutions in population
+(acc (g2): 0.800, coverage (g1): 0.933, cost (g3*):83.60), [Q]: [0, 3, 2, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.814, coverage (g1): 0.933, cost (g3*):87.73), [Q]: [0, 3, 3, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.803, coverage (g1): 0.947, cost (g3*):90.53), [Q]: [0, 3, 3, 3, 2, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.855, coverage (g1): 0.920, cost (g3*):93.33), [Q]: [2, 3, 3, 3, 0, 3, 3, 0, 3, 3, 3, 1]
+(acc (g2): 0.857, coverage (g1): 0.933, cost (g3*):109.33), [Q]: [2, 3, 2, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.861, coverage (g1): 0.960, cost (g3*):162.00), [Q]: [2, 3, 0, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 2, 3, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 3, 3, 3, 0, 3, 3, 0, 2, 2, 3, 1]
+(acc (g2): 0.877, coverage (g1): 0.867, cost (g3*):135.33), [Q]: [1, 3, 3, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+(acc (g2): 0.862, coverage (g1): 0.867, cost (g3*):132.53), [Q]: [1, 3, 2, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+248 chromosomes must be generated for the next population
+
+unique, non-dominated solutions at terminal generation:
+(acc (g2): 0.800, coverage (g1): 0.933, cost (g3*):83.60), [Q]: [0, 3, 2, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.814, coverage (g1): 0.933, cost (g3*):87.73), [Q]: [0, 3, 3, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.803, coverage (g1): 0.947, cost (g3*):90.53), [Q]: [0, 3, 3, 3, 2, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.855, coverage (g1): 0.920, cost (g3*):93.33), [Q]: [2, 3, 3, 3, 0, 3, 3, 0, 3, 3, 3, 1]
+(acc (g2): 0.857, coverage (g1): 0.933, cost (g3*):109.33), [Q]: [2, 3, 2, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.861, coverage (g1): 0.960, cost (g3*):162.00), [Q]: [2, 3, 0, 3, 1, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 2, 3, 3, 0, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.866, coverage (g1): 0.893, cost (g3*):136.00), [Q]: [1, 3, 3, 3, 0, 3, 3, 0, 2, 2, 3, 1]
+(acc (g2): 0.877, coverage (g1): 0.867, cost (g3*):135.33), [Q]: [1, 3, 3, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+(acc (g2): 0.862, coverage (g1): 0.867, cost (g3*):132.53), [Q]: [1, 3, 2, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+(acc (g2): 0.879, coverage (g1): 0.880, cost (g3*):160.53), [Q]: [1, 3, 2, 2, 0, 3, 3, 1, 1, 2, 3, 0]
+(acc (g2): 0.792, coverage (g1): 0.960, cost (g3*):161.20), [Q]: [0, 3, 0, 3, 2, 3, 3, 0, 3, 2, 3, 1]
+(acc (g2): 0.871, coverage (g1): 0.933, cost (g3*):196.27), [Q]: [2, 3, 3, 3, 0, 0, 3, 0, 3, 2, 0, 1]
+(acc (g2): 0.868, coverage (g1): 0.907, cost (g3*):178.80), [Q]: [1, 3, 3, 3, 0, 3, 3, 0, 1, 2, 3, 1]
+(acc (g2): 0.870, coverage (g1): 0.920, cost (g3*):192.27), [Q]: [2, 3, 3, 3, 0, 0, 3, 0, 3, 3, 0, 1]
+(acc (g2): 0.873, coverage (g1): 0.947, cost (g3*):237.73), [Q]: [2, 3, 3, 3, 0, 0, 3, 0, 1, 2, 0, 1]
+(acc (g2): 0.889, coverage (g1): 0.840, cost (g3*):160.13), [Q]: [1, 3, 3, 3, 0, 3, 3, 2, 3, 2, 3, 0]
+(acc (g2): 0.889, coverage (g1): 0.840, cost (g3*):160.13), [Q]: [1, 3, 3, 3, 0, 3, 3, 2, 2, 3, 3, 0]
+(acc (g2): 0.836, coverage (g1): 0.973, cost (g3*):260.00), [Q]: [2, 3, 0, 3, 1, 3, 3, 0, 0, 2, 0, 1]
+(acc (g2): 0.887, coverage (g1): 0.827, cost (g3*):158.93), [Q]: [1, 3, 3, 3, 0, 3, 3, 2, 3, 3, 3, 0]
+(acc (g2): 0.882, coverage (g1): 0.907, cost (g3*):223.87), [Q]: [1, 2, 3, 3, 0, 0, 3, 0, 2, 2, 0, 1]
+(acc (g2): 0.905, coverage (g1): 0.840, cost (g3*):190.13), [Q]: [0, 3, 2, 3, 0, 3, 3, 1, 1, 2, 3, 0]
+(acc (g2): 0.881, coverage (g1): 0.893, cost (g3*):222.53), [Q]: [1, 3, 3, 3, 0, 0, 3, 0, 3, 2, 0, 1]
+(acc (g2): 0.894, coverage (g1): 0.880, cost (g3*):229.20), [Q]: [1, 3, 3, 3, 0, 0, 3, 0, 2, 3, 0, 1]
+(acc (g2): 0.919, coverage (g1): 0.827, cost (g3*):200.93), [Q]: [0, 3, 2, 2, 0, 3, 3, 1, 1, 2, 3, 0]
+(acc (g2): 0.903, coverage (g1): 0.827, cost (g3*):189.07), [Q]: [0, 2, 3, 3, 0, 3, 3, 1, 3, 2, 3, 0]
+(acc (g2): 0.917, coverage (g1): 0.800, cost (g3*):198.67), [Q]: [0, 3, 3, 3, 0, 3, 3, 1, 2, 3, 3, 0]
+(acc (g2): 0.906, coverage (g1): 0.853, cost (g3*):309.20), [Q]: [2, 3, 2, 3, 0, 0, 3, 1, 3, 2, 1, 2]
